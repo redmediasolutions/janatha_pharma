@@ -1,0 +1,134 @@
+---
+import logo from '../assets/site/logo.jpeg';
+import { Image } from 'astro:assets';
+---
+
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div class="footer-col footer-col--brand">
+      <a href="/" class="logo">
+        <span class="logo-card">
+          <Image src={logo} alt="Janatha Pharma" width={88} height={87} />
+        </span>
+        <span class="logo-name">Janatha Pharma</span>
+      </a>
+      <p>
+        At Jantha Pharma, We provide safe, government-approved generic medicines with the
+        same quality and effectiveness as branded drugs — at a lower cost. Our mission is
+        to make healthcare affordable, reliable, and convenient, with verified suppliers,
+        secure packaging, and doorstep delivery you can trust.
+      </p>
+    </div>
+
+    <div class="footer-col">
+      <h4>Quick Links</h4>
+      <ul>
+        <li><a href="/all-products/">All Products</a></li>
+        <li><a href="tel:+919008443893">Contact Us</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-col">
+      <h4>Our Main Office</h4>
+      <p>3rd Floor, Vishwas Heights, Nanthoor, Pumpwell, Mangaluru, Karnataka 575002</p>
+      <p>
+        <strong>Monday - Saturday</strong><br />
+        07.00 am - 12.00 pm
+      </p>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <div class="container">
+      <p>© Copyright 2021 JANATHA PHARMA</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    background: var(--color-text);
+    color: #cbd5db;
+    margin-top: 64px;
+  }
+
+  .footer-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1.4fr;
+    gap: 48px;
+    padding: 64px 24px 40px;
+  }
+
+  .footer-col h4 {
+    color: var(--color-white);
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+
+  .footer-col p {
+    color: #9fb0ba;
+    font-size: 15px;
+  }
+
+  .footer-col ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .footer-col ul a:hover {
+    color: var(--color-primary);
+  }
+
+  .logo {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 14px;
+    margin-bottom: 24px;
+  }
+
+  .logo-card {
+    display: inline-block;
+    background: var(--color-white);
+    border-radius: 10px;
+    padding: 8px;
+    box-shadow:
+      0 18px 40px rgba(0, 0, 0, 0.28),
+      0 4px 10px rgba(0, 0, 0, 0.2),
+      inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  }
+
+  .logo-card :global(img) {
+    display: block;
+  }
+
+  .logo-name {
+    font-family: var(--font-heading);
+    font-weight: 900;
+    font-size: 20px;
+    color: var(--color-white);
+  }
+
+  .footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding: 20px 0;
+  }
+
+  .footer-bottom p {
+    margin: 0;
+    font-size: 14px;
+    color: #9fb0ba;
+    text-align: center;
+  }
+
+  @media (max-width: 860px) {
+    .footer-grid {
+      grid-template-columns: 1fr;
+      gap: 32px;
+    }
+  }
+</style>

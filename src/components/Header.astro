@@ -1,0 +1,156 @@
+---
+import logo from '../assets/site/logo.jpeg';
+import { Image } from 'astro:assets';
+---
+
+<header class="site-header">
+  <div class="top-bar">
+    <div class="container top-bar__inner">
+      <p class="top-bar__hours">
+        <svg class="icon" viewBox="0 0 512 512" width="14" height="14" fill="currentColor" aria-hidden="true">
+          <path d="M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zm0 448c-110.5 0-200-89.5-200-200S145.5 56 256 56s200 89.5 200 200-89.5 200-200 200zm61.8-104.4l-84.9-61.7c-3.1-2.3-4.9-5.9-4.9-9.7V116c0-6.6 5.4-12 12-12h32c6.6 0 12 5.4 12 12v141.7l66.8 48.6c5.4 3.9 6.5 11.4 2.6 16.8L334.6 349c-3.9 5.3-11.4 6.5-16.8 2.6z"/>
+        </svg>
+        Monday 07.00 am - 12.00 pm || Sunday Holiday
+      </p>
+      <a class="top-bar__phone" href="tel:+919591165279">
+        <svg class="icon" viewBox="0 0 512 512" width="14" height="14" fill="currentColor" aria-hidden="true">
+          <path d="M256 48C141.31 48 48 141.31 48 256v40c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-72c0-79.4 64.6-144 144-144s144 64.6 144 144v72c0 13.255 10.745 24 24 24h16c13.255 0 24-10.745 24-24v-40C464 141.31 370.69 48 256 48zM124 296c-22.091 0-40 17.909-40 40v64c0 22.091 17.909 40 40 40s40-17.909 40-40v-64c0-22.091-17.909-40-40-40zm264 0c-22.091 0-40 17.909-40 40v64c0 22.091 17.909 40 40 40s40-17.909 40-40v-64c0-22.091-17.909-40-40-40z"/>
+        </svg>
+        +91 95911 65279
+      </a>
+    </div>
+  </div>
+
+  <div class="main-bar">
+    <div class="container main-bar__inner">
+      <span class="logo-spacer" aria-hidden="true"></span>
+
+      <nav class="nav" aria-label="Primary">
+        <a href="/#about">About</a>
+        <a href="/all-products/">All Products</a>
+      </nav>
+    </div>
+  </div>
+
+  <a href="/" class="logo-card">
+    <Image src={logo} alt="Janatha Pharma" width={162} height={161} />
+  </a>
+</header>
+
+<style>
+  .site-header {
+    position: relative;
+  }
+
+  .top-bar {
+    background: var(--color-text);
+    color: var(--color-white);
+    font-family: var(--font-body);
+    font-size: 14px;
+  }
+
+  .top-bar__inner {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 14px 24px;
+    gap: 32px;
+    flex-wrap: wrap;
+  }
+
+  .top-bar__hours,
+  .top-bar__phone {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    margin: 0;
+  }
+
+  .top-bar__hours {
+    color: var(--color-white);
+  }
+
+  .top-bar__phone {
+    font-weight: 700;
+    color: var(--color-white);
+  }
+
+  .icon {
+    color: var(--color-white);
+    flex-shrink: 0;
+  }
+
+  .main-bar {
+    background: var(--color-white);
+    border-bottom: 1px solid #eef1f3;
+  }
+
+  .main-bar__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 24px;
+  }
+
+  .logo-spacer {
+    display: block;
+    width: 240px;
+  }
+
+  .logo-card {
+    position: absolute;
+    top: 12px;
+    left: 24px;
+    background: var(--color-white);
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow:
+      0 18px 40px rgba(6, 42, 63, 0.22),
+      0 4px 10px rgba(6, 42, 63, 0.16),
+      inset 0 1px 0 rgba(255, 255, 255, 0.8);
+    z-index: 10;
+  }
+
+  .logo-card :global(img) {
+    display: block;
+    width: 130px;
+    height: auto;
+  }
+
+  .nav {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    font-family: var(--font-heading);
+    font-weight: 500;
+    font-size: 16px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .nav a:hover {
+    color: var(--color-primary);
+  }
+
+  @media (max-width: 700px) {
+    .top-bar__inner {
+      justify-content: center;
+      text-align: center;
+    }
+
+    .main-bar__inner {
+      flex-direction: column;
+      gap: 16px;
+      padding-top: 100px;
+    }
+
+    .logo-spacer {
+      display: none;
+    }
+
+    .logo-card {
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  }
+</style>

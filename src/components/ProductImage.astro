@@ -1,0 +1,14 @@
+---
+interface Props {
+  slug: string;
+  image: string | null;
+  alt: string;
+  width: number;
+  height: number;
+}
+
+const { image, alt, width, height } = Astro.props;
+const src = image ? `/products/${image}` : '/products/placeholder.webp';
+---
+
+<img src={src} alt={alt} width={width} height={height} loading="lazy" decoding="async" />

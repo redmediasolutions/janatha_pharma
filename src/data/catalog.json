@@ -1,0 +1,2502 @@
+[
+  {
+    "slug": "ab-belt",
+    "title": "AB BELT",
+    "pack": "1`S"
+  },
+  {
+    "slug": "abdominal-sponze",
+    "title": "ABDOMINAL SPONZE",
+    "pack": "1`S"
+  },
+  {
+    "slug": "abiraterone-acetate-250mg",
+    "title": "ABIRATERONE ACETATE 250MG",
+    "pack": "120`S"
+  },
+  {
+    "slug": "abiraterone-acetate-500mg",
+    "title": "ABIRATERONE ACETATE 500MG",
+    "pack": "60`S"
+  },
+  {
+    "slug": "acamprostate-666mg",
+    "title": "ACAMPROSTATE 666MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acamprostate-calcium-333",
+    "title": "ACAMPROSTATE CALCIUM 333",
+    "pack": "6`S"
+  },
+  {
+    "slug": "acarbose-25mg",
+    "title": "ACARBOSE 25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acarbose-25mg-metformin-500mg",
+    "title": "ACARBOSE 25MG, METFORMIN 500MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acarbose-50mg",
+    "title": "ACARBOSE 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acarbose-50mg-metformin-500mg",
+    "title": "ACARBOSE 50MG, METFORMIN 500MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "accupressure-slippers",
+    "title": "ACCUPRESSURE SLIPPERS",
+    "pack": "2`S"
+  },
+  {
+    "slug": "acebrophylin-200mg",
+    "title": "ACEBROPHYLIN 200MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acebrophylline-100mg",
+    "title": "ACEBROPHYLLINE 100MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acebrophylline-100mg-doxophylline-400mg",
+    "title": "ACEBROPHYLLINE 100MG, DOXOPHYLLINE 400MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acebrophylline-100mgacetylcysteine-600mg",
+    "title": "ACEBROPHYLLINE 100MG,ACETYLCYSTEINE 600MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acebrophylline-200mg-montelukast-10mg-desloratadine-5mg",
+    "title": "ACEBROPHYLLINE 200MG, MONTELUKAST 10MG, DESLORATADINE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acebrophylline-50mg-guaiphenesin-50mg-terbutaline-1-25mg",
+    "title": "ACEBROPHYLLINE 50MG, GUAIPHENESIN 50MG, TERBUTALINE 1.25MG",
+    "pack": "100ML"
+  },
+  {
+    "slug": "aceclofenac-1-5-methyl-salicylate-10-0-linseed-oil3-0-capsaicin-0-025",
+    "title": "ACECLOFENAC 1.5%, METHYL SALICYLATE 10.0%, LINSEED OIL3.0%, CAPSAICIN 0.025%",
+    "pack": "30GM"
+  },
+  {
+    "slug": "aceclofenac-100mg",
+    "title": "ACECLOFENAC 100MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mg-2",
+    "title": "ACECLOFENAC 100MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mg-diacerein-50mg",
+    "title": "ACECLOFENAC 100MG ,DIACEREIN 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mg-paracetamol-325mg",
+    "title": "ACECLOFENAC 100MG + PARACETAMOL 325MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mg-paracetamol-250mg",
+    "title": "ACECLOFENAC 100MG, PARACETAMOL 250MG",
+    "pack": "60ML"
+  },
+  {
+    "slug": "aceclofenac-100mg-paracetamol-325mg-phenylephrine-hydrochloride-5mgcetirizine-hydrochloride-10mgcaffeine-anhydrous-25mg",
+    "title": "ACECLOFENAC 100MG, PARACETAMOL 325MG, PHENYLEPHRINE HYDROCHLORIDE 5MG,CETIRIZINE HYDROCHLORIDE 10MG,CAFFEINE ANHYDROUS 25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mg-paracetamol-325mg-trypsin-chymotrypsin-5000au",
+    "title": "ACECLOFENAC 100MG, PARACETAMOL 325MG, TRYPSIN CHYMOTRYPSIN 5000AU",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mg-serratiopeptidase-15mg",
+    "title": "ACECLOFENAC 100MG, SERRATIOPEPTIDASE 15MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mg-thiocolchicoside-8mg",
+    "title": "ACECLOFENAC 100MG, THIOCOLCHICOSIDE 8MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mg-tizanidine-2-mg",
+    "title": "ACECLOFENAC 100MG, TIZANIDINE 2 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mg-trypsin-chymotrypsin-5000au",
+    "title": "ACECLOFENAC 100MG, TRYPSIN CHYMOTRYPSIN 5000AU",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mgbromelain-90mgrutoside-100mgtrypsin-48mg",
+    "title": "ACECLOFENAC 100MG,BROMELAIN 90M,GRUTOSIDE 100MG,TRYPSIN 48MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mgparacetamol-325mg-serratiopeptidase-10mg",
+    "title": "ACECLOFENAC 100MG,PARACETAMOL 325MG, SERRATIOPEPTIDASE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mgparacetamol-325mgtramodol-37-5mg",
+    "title": "ACECLOFENAC 100MG,PARACETAMOL 325MG,TRAMODOL 37.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mgthiocolchicoside-4mg",
+    "title": "ACECLOFENAC 100MG,THIOCOLCHICOSIDE 4MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mgparacetamol-325mgchlorozoxazone-250mg",
+    "title": "ACECLOFENAC 100MG+PARACETAMOL 325MG+CHLOROZOXAZONE 250MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mgparacetamol-325mgserratiopeptidase-10mg",
+    "title": "ACECLOFENAC 100MG+PARACETAMOL 325MG+SERRATIOPEPTIDASE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mgparacetamol-325mgthiocolchioside-4mg",
+    "title": "ACECLOFENAC 100MG+PARACETAMOL 325MG+THIOCOLCHIOSIDE 4MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-100mgthiocolchioside-4mg",
+    "title": "ACECLOFENAC 100MG+THIOCOLCHIOSIDE 4MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenac-200mg",
+    "title": "ACECLOFENAC 200MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenacchlorzoxazoneparacetamol",
+    "title": "ACECLOFENAC+CHLORZOXAZONE+PARACETAMOL",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenacparacetamol",
+    "title": "ACECLOFENAC+PARACETAMOL",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenacrabeprazole",
+    "title": "ACECLOFENAC+RABEPRAZOLE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aceclofenacthiocolchicoside",
+    "title": "ACECLOFENAC+THIOCOLCHICOSIDE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acetazolamide-250mg",
+    "title": "ACETAZOLAMIDE 250MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acetylcysteine-150mg-taurine-500mg",
+    "title": "ACETYLCYSTEINE 150MG ,TAURINE 500MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acetylcysteine-200mg",
+    "title": "ACETYLCYSTEINE 200MG",
+    "pack": "5`S"
+  },
+  {
+    "slug": "acetylcysteine-20mg-lutein-zeaxanthin-10mg-melatonin-3mg-astaxanthin-2mg",
+    "title": "ACETYLCYSTEINE 20MG, LUTEIN ZEAXANTHIN 10MG, MELATONIN 3MG, ASTAXANTHIN 2MG,",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acetylcysteine-600mg",
+    "title": "ACETYLCYSTEINE 600MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acetylcysteine-effervescent-600mg",
+    "title": "ACETYLCYSTEINE EFFERVESCENT 600MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aciclovir-400mg",
+    "title": "ACICLOVIR 400MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aciclovir-800mg",
+    "title": "ACICLOVIR 800MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aciclovir-cream-5",
+    "title": "ACICLOVIR CREAM 5%",
+    "pack": "5GM"
+  },
+  {
+    "slug": "acitretin-10mg",
+    "title": "ACITRETIN 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acitretin-25mg",
+    "title": "ACITRETIN 25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acotiamide-100mg",
+    "title": "ACOTIAMIDE 100MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "acotiamide-300mg",
+    "title": "ACOTIAMIDE 300MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "acyclovir-500mg",
+    "title": "ACYCLOVIR 500MG",
+    "pack": "1 VIAL"
+  },
+  {
+    "slug": "adapalene-0-1-clindamycin-1",
+    "title": "ADAPALENE 0.1% & CLINDAMYCIN 1%",
+    "pack": "15GM"
+  },
+  {
+    "slug": "adapalene-0-1-benzoyl-peroxide-2-5",
+    "title": "ADAPALENE 0.1%, BENZOYL PEROXIDE 2.5%",
+    "pack": "20GM"
+  },
+  {
+    "slug": "adhesive-tape",
+    "title": "ADHESIVE TAPE",
+    "pack": "1`S"
+  },
+  {
+    "slug": "adult-diaper",
+    "title": "ADULT DIAPER",
+    "pack": "10`S"
+  },
+  {
+    "slug": "air-bed",
+    "title": "AIR BED",
+    "pack": "1`S"
+  },
+  {
+    "slug": "albendazole",
+    "title": "ALBENDAZOLE",
+    "pack": "10ML"
+  },
+  {
+    "slug": "albendazole-400mg-ivermectin-6mg",
+    "title": "ALBENDAZOLE 400MG & IVERMECTIN 6MG",
+    "pack": "10ML"
+  },
+  {
+    "slug": "albendozole-400mg",
+    "title": "ALBENDOZOLE 400MG",
+    "pack": "10ML"
+  },
+  {
+    "slug": "alcaftadine-2-5-mg",
+    "title": "ALCAFTADINE 2.5% MG",
+    "pack": "5ML"
+  },
+  {
+    "slug": "alendroante-sodium-35mg",
+    "title": "ALENDROANTE SODIUM 35MG",
+    "pack": "4`S"
+  },
+  {
+    "slug": "alendronate-70mg-cholecalciferolvit-d3-5600iu",
+    "title": "ALENDRONATE 70MG, CHOLECALCIFEROL(VIT D3) 5600IU",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alendronate-sodium-70mg",
+    "title": "ALENDRONATE SODIUM 70MG",
+    "pack": "4`S"
+  },
+  {
+    "slug": "alfa-keto-analogues",
+    "title": "ALFA KETO ANALOGUES",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alfacalcidol-0-25-mcg",
+    "title": "ALFACALCIDOL 0.25 MCG",
+    "pack": "0.15ML"
+  },
+  {
+    "slug": "alfacalcidol-0-5mcg",
+    "title": "ALFACALCIDOL 0.5MCG",
+    "pack": "0.15ML"
+  },
+  {
+    "slug": "alfuzosin-10mg",
+    "title": "ALFUZOSIN 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alfuzosin-2-5mg-tadalafil-10mg",
+    "title": "ALFUZOSIN 2.5MG, TADALAFIL 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alfuzosin-5mg-tadalafil-10mg",
+    "title": "ALFUZOSIN 5MG, TADALAFIL 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alfuzosin-hcl-10mgdutasteride-5mg",
+    "title": "ALFUZOSIN HCL 10MG+DUTASTERIDE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alfuzosin-hcl-10mgdutasteride-5mg-2",
+    "title": "ALFUZOSIN HCL 10MG+DUTASTERIDE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alfuzosin-hydrochloride-10mgdutasteride-0-5mg",
+    "title": "ALFUZOSIN HYDROCHLORIDE 10MG,DUTASTERIDE 0.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "allantoin",
+    "title": "ALLANTOIN",
+    "pack": "60ML"
+  },
+  {
+    "slug": "allantoinaloeverachlorhexidinesilver-sulfadiazine",
+    "title": "ALLANTOIN+ALOEVERA+CHLORHEXIDINE+SILVER SULFADIAZINE",
+    "pack": "20GM"
+  },
+  {
+    "slug": "allopurinol-100mg",
+    "title": "ALLOPURINOL 100MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "allopurinol-300mg",
+    "title": "ALLOPURINOL 300MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "allylestrenol",
+    "title": "ALLYLESTRENOL",
+    "pack": "10`S"
+  },
+  {
+    "slug": "allylestrenol-5mg",
+    "title": "ALLYLESTRENOL 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aloevera",
+    "title": "ALOEVERA",
+    "pack": "1`S"
+  },
+  {
+    "slug": "aloevera-juice",
+    "title": "ALOEVERA JUICE",
+    "pack": "500ML"
+  },
+  {
+    "slug": "aloeveraglycerine",
+    "title": "ALOEVERA+GLYCERINE",
+    "pack": "75GM"
+  },
+  {
+    "slug": "aloeveratocopheryl-vit-e",
+    "title": "ALOEVERA+TOCOPHERYL (VIT E)",
+    "pack": "50GM"
+  },
+  {
+    "slug": "alovera-lotion",
+    "title": "ALOVERA  LOTION",
+    "pack": "100ML"
+  },
+  {
+    "slug": "alpha-amylasealpha-galactosidaselactaselipaseprotease",
+    "title": "ALPHA AMYLASE+ALPHA GALACTOSIDASE+LACTASE+LIPASE+PROTEASE",
+    "pack": "30ML"
+  },
+  {
+    "slug": "alpha-galactosidase-150-mg-amylase-50mg-protease-25-mglactase-7mglipase-3mg",
+    "title": "ALPHA GALACTOSIDASE 150 MG, AMYLASE 50MG, PROTEASE 25 MG,LACTASE 7MG,LIPASE 3MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alpha-galactosidase-150mgalpha-amylase-50mgprotease-enzyme-25mglactase-enzyme-7mglipase-enzyme-3mg",
+    "title": "ALPHA GALACTOSIDASE 150MG,ALPHA AMYLASE 50MG,PROTEASE ENZYME 25MG,LACTASE ENZYME 7MG,LIPASE ENZYME 3MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alpha-glycerylphosphorylcholine-250mg-piracetam-800mg",
+    "title": "ALPHA GLYCERYLPHOSPHORYLCHOLINE 250MG, PIRACETAM 800MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alpha-keto-analogue",
+    "title": "ALPHA KETO ANALOGUE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alpha-keto-analogue-2",
+    "title": "ALPHA KETO ANALOGUE",
+    "pack": "300ML"
+  },
+  {
+    "slug": "alpha-ketoanalogue",
+    "title": "ALPHA KETOANALOGUE",
+    "pack": "2.7GM"
+  },
+  {
+    "slug": "alpha-lipoic-acidcholecalciferolvit-d3folic-acidmecobalamin-methylcobalaminpyridoxine",
+    "title": "ALPHA LIPOIC ACID+CHOLECALCIFEROL(VIT D3)+FOLIC ACID+MECOBALAMIN (METHYLCOBALAMIN)+PYRIDOXINE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alpha-beta-arteether-150mg",
+    "title": "ALPHA-BETA ARTEETHER 150MG",
+    "pack": "2ML"
+  },
+  {
+    "slug": "alprazolam-0-25mg",
+    "title": "ALPRAZOLAM 0.25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alprazolam-0-25mgpropranolol-20mg",
+    "title": "ALPRAZOLAM 0.25MG+PROPRANOLOL 20MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alprazolam-0-5-mg",
+    "title": "ALPRAZOLAM 0.5 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alprazolam-1-5mg",
+    "title": "ALPRAZOLAM 1.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "alprazolam-1mg",
+    "title": "ALPRAZOLAM 1MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aluminium-hydroxidemagnesium-aluminium-silicatemagnesium-hydroxidesimethicone",
+    "title": "ALUMINIUM HYDROXIDE+MAGNESIUM ALUMINIUM SILICATE+MAGNESIUM HYDROXIDE+SIMETHICONE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aluminium-hydroxidemagnesium-aluminium-silicatemagnesium-hydroxidesimethicone-2",
+    "title": "ALUMINIUM HYDROXIDE+MAGNESIUM ALUMINIUM SILICATE+MAGNESIUM HYDROXIDE+SIMETHICONE",
+    "pack": "170ML"
+  },
+  {
+    "slug": "aluminium-hydroxidemagnesium-aluminium-silicatemagnesium-hydroxidesimethicone-3",
+    "title": "ALUMINIUM HYDROXIDE+MAGNESIUM ALUMINIUM SILICATE+MAGNESIUM HYDROXIDE+SIMETHICONE",
+    "pack": "170ML"
+  },
+  {
+    "slug": "amantadine-129mg",
+    "title": "AMANTADINE 129MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amantadine-hydrochloride-100mg",
+    "title": "AMANTADINE HYDROCHLORIDE 100MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "ambrisentan-5mg",
+    "title": "AMBRISENTAN 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "ambroxol-15mg-guaiphenesin-50mg-levocetirizine-2-5mg-menthol-1mg",
+    "title": "AMBROXOL 15MG, GUAIPHENESIN 50MG, LEVOCETIRIZINE 2.5MG, MENTHOL 1MG",
+    "pack": "100ML"
+  },
+  {
+    "slug": "ambroxol-15mg-levosulbutamol-0-5mg-guaiphenesin-50mg",
+    "title": "AMBROXOL 15MG, LEVOSULBUTAMOL 0.5MG, GUAIPHENESIN 50MG",
+    "pack": "60ML"
+  },
+  {
+    "slug": "ambroxol-15mg-terbutaline-1-25mg-guaiphenesin-50mg-menthol-2-5mg",
+    "title": "AMBROXOL 15MG, TERBUTALINE 1.25MG, GUAIPHENESIN 50MG, MENTHOL 2.5MG",
+    "pack": "100ML"
+  },
+  {
+    "slug": "ambroxol-15mgsalbutamol-1mgcpm-2mgguaiphenesin-50mgmenthol-2mg",
+    "title": "AMBROXOL 15MG+SALBUTAMOL 1MG+CPM 2MG+GUAIPHENESIN 50MG+MENTHOL 2MG",
+    "pack": "100ML"
+  },
+  {
+    "slug": "ambroxol-15mgterbutaline-1-5mgguaiphenesin-50mg-100ml",
+    "title": "AMBROXOL 15MG+TERBUTALINE 1.5MG+GUAIPHENESIN 50MG 100ML",
+    "pack": "60ML"
+  },
+  {
+    "slug": "ambroxol-15mgterbutaline-1-5mgguaiphenesin-50mg-100ml-2",
+    "title": "AMBROXOL 15MG+TERBUTALINE 1.5MG+GUAIPHENESIN 50MG 100ML",
+    "pack": "50ML"
+  },
+  {
+    "slug": "ambroxol-30mg",
+    "title": "AMBROXOL 30MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "ambroxol-30mg-doxophylline-400mg",
+    "title": "AMBROXOL 30MG, DOXOPHYLLINE 400MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "ambroxol-30mg-guaiphenesin-50mg-levosalbutamol-1mg",
+    "title": "AMBROXOL 30MG, GUAIPHENESIN 50MG, LEVOSALBUTAMOL 1MG",
+    "pack": "100ML"
+  },
+  {
+    "slug": "ambroxol-60-mg-levocetirizine-5-mg-phenylephrine-hydrochloride-5-mg",
+    "title": "AMBROXOL 60 MG + LEVOCETIRIZINE 5 MG + PHENYLEPHRINE HYDROCHLORIDE 5 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "ambroxol-60mg-levocetirizine-5mg",
+    "title": "AMBROXOL 60MG, LEVOCETIRIZINE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "ambroxol-7-5mg",
+    "title": "AMBROXOL 7.5MG",
+    "pack": "15ML"
+  },
+  {
+    "slug": "ambroxol-75mg-levocetirizine-5mg",
+    "title": "AMBROXOL 75MG, LEVOCETIRIZINE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "ambroxol-hydrochloride-30mg-cetirizine-10mg",
+    "title": "AMBROXOL HYDROCHLORIDE 30MG, CETIRIZINE 10MG",
+    "pack": "100ML"
+  },
+  {
+    "slug": "ambroxol-hydrochloride-30mg-levosalbutamol-sulphate-1mg-guaiphenesin-50mg",
+    "title": "AMBROXOL HYDROCHLORIDE 30MG, LEVOSALBUTAMOL SULPHATE 1MG, GUAIPHENESIN 50MG",
+    "pack": "100ML"
+  },
+  {
+    "slug": "ambroxolguaiphenesinlevocetirizine",
+    "title": "AMBROXOL+GUAIPHENESIN+LEVOCETIRIZINE",
+    "pack": "15ML"
+  },
+  {
+    "slug": "ambroxollevocetirizineparacetamolphenylephrine",
+    "title": "AMBROXOL+LEVOCETIRIZINE+PARACETAMOL+PHENYLEPHRINE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amikacin-sulphate-250mg",
+    "title": "AMIKACIN SULPHATE 250MG",
+    "pack": "2ML"
+  },
+  {
+    "slug": "amikacin-sulphate-500mg",
+    "title": "AMIKACIN SULPHATE 500MG",
+    "pack": "2ML"
+  },
+  {
+    "slug": "amiloride-2-5mg-hydroclorothiazide-25mg",
+    "title": "AMILORIDE 2.5MG, HYDROCLOROTHIAZIDE 25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amino-acids-multivitamins-and-minerals",
+    "title": "AMINO  ACIDS, MULTIVITAMINS AND MINERALS",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amino-acids-minerals",
+    "title": "AMINO ACIDS, MINERALS",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amino-acidsmultivitamin-and-antioxidant",
+    "title": "AMINO ACIDS,MULTIVITAMIN AND ANTIOXIDANT",
+    "pack": "200ML"
+  },
+  {
+    "slug": "amiodarone-100mg",
+    "title": "AMIODARONE 100MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amiodarone-200mg",
+    "title": "AMIODARONE 200MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amisulpride-100mg",
+    "title": "AMISULPRIDE 100MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amisulpride-200mg",
+    "title": "AMISULPRIDE 200MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amisulpride-300mg",
+    "title": "AMISULPRIDE 300MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amisulpride-400mg",
+    "title": "AMISULPRIDE 400MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amisulpride-50mg",
+    "title": "AMISULPRIDE 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptyline",
+    "title": "AMITRIPTYLINE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptyline-10mg",
+    "title": "AMITRIPTYLINE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptyline-10mgpropranolol-40mg",
+    "title": "AMITRIPTYLINE 10MG,PROPRANOLOL 40MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptyline-12-5mg-chlordiazepoxide-5mg",
+    "title": "AMITRIPTYLINE 12.5MG & CHLORDIAZEPOXIDE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptyline-12-5mgchlordiazepoxide-5mg-tabs",
+    "title": "AMITRIPTYLINE 12.5MG+CHLORDIAZEPOXIDE 5MG TABS",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptyline-25mg",
+    "title": "AMITRIPTYLINE 25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptyline-25mg-chlordiazepoxide-10mg",
+    "title": "AMITRIPTYLINE 25MG & CHLORDIAZEPOXIDE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptyline-50mg",
+    "title": "AMITRIPTYLINE 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptyline-hydrochloride-10-mg-methycobalamin1500-mg-sustained-release-tablets",
+    "title": "AMITRIPTYLINE HYDROCHLORIDE 10 MG& METHYCOBALAMIN1500 MG SUSTAINED RELEASE TABLETS",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptyline-hydrochloride-10-mg-methylcobalamin-1500-mcg",
+    "title": "AMITRIPTYLINE HYDROCHLORIDE 10 MG& METHYLCOBALAMIN 1500 MCG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptyline-hydrochloride-12-5mgchlordiazrpoxide-5mg",
+    "title": "AMITRIPTYLINE HYDROCHLORIDE 12.5MG,CHLORDIAZRPOXIDE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptyline-hydrochloride-75mg",
+    "title": "AMITRIPTYLINE HYDROCHLORIDE 75MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptylinegabapentin",
+    "title": "AMITRIPTYLINE+GABAPENTIN",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amitriptylinemecobalamin-methylcobalamin",
+    "title": "AMITRIPTYLINE+MECOBALAMIN (METHYLCOBALAMIN)",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amlodepine-5-atenolol-50",
+    "title": "AMLODEPINE 5 + ATENOLOL 50",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amlodipine-10mg",
+    "title": "AMLODIPINE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amlodipine-2-5mg",
+    "title": "AMLODIPINE 2.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amlodipine-5mg",
+    "title": "AMLODIPINE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amlodipine-5mg-enalapril-5mg",
+    "title": "AMLODIPINE 5MG, ENALAPRIL 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amlodipine-5mg-hydrochlorthiazide-12-5mg",
+    "title": "AMLODIPINE 5MG, HYDROCHLORTHIAZIDE 12.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amlodipine-5mg-lisinopril-5mg",
+    "title": "AMLODIPINE 5MG, LISINOPRIL 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amlodipine-5mg-perindopril-4mg",
+    "title": "AMLODIPINE 5MG, PERINDOPRIL 4MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amlodipine-5mg-perindopril-4mg-2",
+    "title": "AMLODIPINE 5MG, PERINDOPRIL 4MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amlodipine-5mgatenolol-25mg",
+    "title": "AMLODIPINE 5MG,ATENOLOL 25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amlodipine-5mgatenolol-25mg-2",
+    "title": "AMLODIPINE 5MG,ATENOLOL 25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amlodipinemetoprolol",
+    "title": "AMLODIPINE+METOPROLOL",
+    "pack": "10`S"
+  },
+  {
+    "slug": "ammoniumbromhexinedextromethorphanmenthol",
+    "title": "AMMONIUM+BROMHEXINE+DEXTROMETHORPHAN+MENTHOL",
+    "pack": "100ML"
+  },
+  {
+    "slug": "ammoniumchlorpheniraminesodium-citrate",
+    "title": "AMMONIUM+CHLORPHENIRAMINE+SODIUM CITRATE",
+    "pack": "100ML"
+  },
+  {
+    "slug": "ammoniumdiphenhydraminesodium-citrate",
+    "title": "AMMONIUM+DIPHENHYDRAMINE+SODIUM CITRATE",
+    "pack": "100ML"
+  },
+  {
+    "slug": "amorolfine-0-25",
+    "title": "AMOROLFINE 0.25%",
+    "pack": "20GM"
+  },
+  {
+    "slug": "amorphous-hydrogel",
+    "title": "AMORPHOUS HYDROGEL",
+    "pack": "15GM"
+  },
+  {
+    "slug": "amoxapine-100mg",
+    "title": "AMOXAPINE 100MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amoxapine-50mg",
+    "title": "AMOXAPINE 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amoxicillin",
+    "title": "AMOXICILLIN",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amoxicillin-2",
+    "title": "AMOXICILLIN",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amoxicillin-500mg-clavulanate-potassium-125mg",
+    "title": "AMOXICILLIN  500MG, CLAVULANATE POTASSIUM 125MG",
+    "pack": "6`S"
+  },
+  {
+    "slug": "amoxicillin-1000mg-clavulanic-acid-200mg",
+    "title": "AMOXICILLIN 1000MG, CLAVULANIC ACID 200MG",
+    "pack": "1 VIAL"
+  },
+  {
+    "slug": "amoxicillin-250mg-clavulanic-acid-125mg",
+    "title": "AMOXICILLIN 250MG, CLAVULANIC ACID 125MG",
+    "pack": "6`S"
+  },
+  {
+    "slug": "amoxicillin-250mg-cloxacillin-250mg-lactic-bacillus-60ms",
+    "title": "AMOXICILLIN 250MG, CLOXACILLIN 250MG, LACTIC BACILLUS 60MS",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amoxicillin-500mg-clavulanic-acid-125mg-lacto-bascillus-60million-spores",
+    "title": "AMOXICILLIN 500MG, CLAVULANIC ACID 125MG, LACTO BASCILLUS 60MILLION SPORES",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amoxicillin-500mg-clavulanic-acid-125mg-lacto-bascillus-60million-spores-2",
+    "title": "AMOXICILLIN 500MG, CLAVULANIC ACID 125MG, LACTO BASCILLUS 60MILLION SPORES",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amoxycillin-125mg",
+    "title": "AMOXYCILLIN  125MG",
+    "pack": "30ML"
+  },
+  {
+    "slug": "amoxycillin-250mg",
+    "title": "AMOXYCILLIN 250MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "amoxycillin-250mg-2",
+    "title": "AMOXYCILLIN 250MG",
+    "pack": "60ML"
+  },
+  {
+    "slug": "amoxycillin-250mg-potassium-clavulanate-125mg",
+    "title": "AMOXYCILLIN 250MG, POTASSIUM CLAVULANATE 125MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amoxycillin-500mg",
+    "title": "AMOXYCILLIN 500MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "amoxycillin-500mg-lactic-bacillus-60ms",
+    "title": "AMOXYCILLIN 500MG, LACTIC BACILLUS 60MS",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amoxycillin-80mg-potassium-clavulanate-11-4mg",
+    "title": "AMOXYCILLIN 80MG, POTASSIUM CLAVULANATE 11.4MG",
+    "pack": "10ML"
+  },
+  {
+    "slug": "amoxycillin-and-potassium-suspension",
+    "title": "AMOXYCILLIN AND POTASSIUM SUSPENSION",
+    "pack": "30ML"
+  },
+  {
+    "slug": "amoxycillin-and-potassium-suspension-2",
+    "title": "AMOXYCILLIN AND POTASSIUM SUSPENSION",
+    "pack": "30ML"
+  },
+  {
+    "slug": "amoxycillin-trihydrate-125mg",
+    "title": "AMOXYCILLIN TRIHYDRATE 125MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "amoxycillin-trihydrate-200mg-potassium-clavulanate-28-5mg",
+    "title": "AMOXYCILLIN TRIHYDRATE 200MG, POTASSIUM CLAVULANATE 28.5MG",
+    "pack": "30ML"
+  },
+  {
+    "slug": "amoxycillin-trihydrate-400mg-potassium-clavulanate-57mg",
+    "title": "AMOXYCILLIN TRIHYDRATE 400MG, POTASSIUM CLAVULANATE 57MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "ampicillin",
+    "title": "AMPICILLIN",
+    "pack": "10`S"
+  },
+  {
+    "slug": "ampicillin-250mg-cloxacillin-250mg",
+    "title": "AMPICILLIN 250MG, CLOXACILLIN 250MG",
+    "pack": "1 VIAL"
+  },
+  {
+    "slug": "ampicillincloxacillin",
+    "title": "AMPICILLIN+CLOXACILLIN",
+    "pack": "10`S"
+  },
+  {
+    "slug": "anastrazole-1mg",
+    "title": "ANASTRAZOLE 1MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "ankle-binder",
+    "title": "ANKLE BINDER",
+    "pack": "1`S"
+  },
+  {
+    "slug": "ankle-grip",
+    "title": "ANKLE GRIP",
+    "pack": "1`S"
+  },
+  {
+    "slug": "ankle-wrap",
+    "title": "ANKLE WRAP",
+    "pack": "1`S"
+  },
+  {
+    "slug": "anklet",
+    "title": "ANKLET",
+    "pack": "1`S"
+  },
+  {
+    "slug": "anklet-with-comfort-binder",
+    "title": "ANKLET WITH COMFORT BINDER",
+    "pack": "1`S"
+  },
+  {
+    "slug": "anti-ageing-for-both-men-women",
+    "title": "ANTI AGEING FOR BOTH MEN & WOMEN",
+    "pack": "60`S"
+  },
+  {
+    "slug": "anti-crack-set",
+    "title": "ANTI CRACK SET",
+    "pack": "2`S"
+  },
+  {
+    "slug": "anti-dandruff",
+    "title": "ANTI DANDRUFF",
+    "pack": "100ML"
+  },
+  {
+    "slug": "anti-stretch-mark",
+    "title": "ANTI STRETCH MARK",
+    "pack": "100GM"
+  },
+  {
+    "slug": "anti-infective-dusting-powder",
+    "title": "ANTI-INFECTIVE DUSTING POWDER",
+    "pack": "15GM"
+  },
+  {
+    "slug": "antioxidant-with-vit-e-vit-c",
+    "title": "ANTIOXIDANT WITH VIT E & VIT C",
+    "pack": "1`S"
+  },
+  {
+    "slug": "antioxidantsvitaminsmineralstrace-elementscyanocobalamin-l-lysine-hci",
+    "title": "ANTIOXIDANTS,VITAMINS,MINERALS,TRACE ELEMENTS,CYANOCOBALAMIN &L-LYSINE HCI",
+    "pack": "15`S"
+  },
+  {
+    "slug": "antioxidantsmultimineralmultivitamin",
+    "title": "ANTIOXIDANTS+MULTIMINERAL+MULTIVITAMIN",
+    "pack": "200ML"
+  },
+  {
+    "slug": "apixaban-2-5mg",
+    "title": "APIXABAN 2.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "apixaban-5mg",
+    "title": "APIXABAN 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "apremilast-20mg",
+    "title": "APREMILAST 20MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "apremilast-30mg",
+    "title": "APREMILAST 30MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "apron",
+    "title": "APRON",
+    "pack": "1`S"
+  },
+  {
+    "slug": "arbutinkojic-acidliquoricemulberryoctinoxateoctyl-methoxycinnamatetocopheryl-vit-e",
+    "title": "ARBUTIN+KOJIC ACID+LIQUORICE+MULBERRY+OCTINOXATE(OCTYL METHOXYCINNAMATE)+TOCOPHERYL (VIT E)",
+    "pack": "15GM"
+  },
+  {
+    "slug": "aripiprazole-10mg",
+    "title": "ARIPIPRAZOLE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aripiprazole-15mg",
+    "title": "ARIPIPRAZOLE 15MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aripiprazole-20mg",
+    "title": "ARIPIPRAZOLE 20MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aripiprazole-30mg",
+    "title": "ARIPIPRAZOLE 30MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "aripiprazole-5mg",
+    "title": "ARIPIPRAZOLE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "arm-digital-bp",
+    "title": "ARM DIGITAL BP",
+    "pack": "1`S"
+  },
+  {
+    "slug": "arm-sling",
+    "title": "ARM SLING",
+    "pack": "1`S"
+  },
+  {
+    "slug": "armodafinil-150mg",
+    "title": "ARMODAFINIL 150MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "armodafinil-50mg",
+    "title": "ARMODAFINIL 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "arrow-root-powder",
+    "title": "ARROW ROOT POWDER",
+    "pack": "100GM"
+  },
+  {
+    "slug": "arrow-root-powder-2",
+    "title": "ARROW ROOT POWDER",
+    "pack": "50GM"
+  },
+  {
+    "slug": "artemether-80mg-lumefantrine-480mg",
+    "title": "ARTEMETHER 80MG, LUMEFANTRINE 480MG",
+    "pack": "6`S"
+  },
+  {
+    "slug": "artesunatepyrimethaminesulphadoxine",
+    "title": "ARTESUNATE+PYRIMETHAMINE+SULPHADOXINE",
+    "pack": "5`S"
+  },
+  {
+    "slug": "ascorbic-acid-vit-c",
+    "title": "ASCORBIC ACID (VIT C)",
+    "pack": "15`S"
+  },
+  {
+    "slug": "ascorbic-acid-vit-ckojic-acid",
+    "title": "ASCORBIC ACID (VIT C)+KOJIC ACID",
+    "pack": "1`S"
+  },
+  {
+    "slug": "aspirin-150mg",
+    "title": "ASPIRIN 150MG",
+    "pack": "14`S"
+  },
+  {
+    "slug": "aspirin-75mg",
+    "title": "ASPIRIN 75MG",
+    "pack": "14`S"
+  },
+  {
+    "slug": "atenolol-25mg",
+    "title": "ATENOLOL 25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atenolol-50mg",
+    "title": "ATENOLOL 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atenolol-50mg-chlorthalidone-12-5mg",
+    "title": "ATENOLOL 50MG, CHLORTHALIDONE 12.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atenolol-50mg-hydrochlorothiazide-12-5-mg",
+    "title": "ATENOLOL 50MG, HYDROCHLOROTHIAZIDE 12.5 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atomoxetine-hydrochloride-10mg",
+    "title": "ATOMOXETINE HYDROCHLORIDE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atomoxetine-hydrochloride-18mg",
+    "title": "ATOMOXETINE HYDROCHLORIDE 18MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-metaprolol-succinate",
+    "title": "ATORVASTATIN + METAPROLOL SUCCINATE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-metaprolol-succinate-2",
+    "title": "ATORVASTATIN + METAPROLOL SUCCINATE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-10-mg-fenofibrate-160-mg",
+    "title": "ATORVASTATIN 10 MG & FENOFIBRATE 160 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-10mg",
+    "title": "ATORVASTATIN 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-10mg-aspirin-150-mg",
+    "title": "ATORVASTATIN 10MG + ASPIRIN 150 MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "atorvastatin-10mg-aspirin-75mg",
+    "title": "ATORVASTATIN 10MG + ASPIRIN 75MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-10mg-aspirin-75mg-clopidrogel-75mg",
+    "title": "ATORVASTATIN 10MG + ASPIRIN 75MG + CLOPIDROGEL 75MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "atorvastatin-10mg-clopidogrel-75mg-aspirin-150mg",
+    "title": "ATORVASTATIN 10MG + CLOPIDOGREL 75MG + ASPIRIN 150MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-10mg-clopidrogel-75mg",
+    "title": "ATORVASTATIN 10MG + CLOPIDROGEL 75MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-10mg-ezetimibe-10mg",
+    "title": "ATORVASTATIN 10MG + EZETIMIBE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-10mg-fenofibrate-160mg",
+    "title": "ATORVASTATIN 10MG + FENOFIBRATE 160MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-10mg-vitamin-d3-1000iu",
+    "title": "ATORVASTATIN 10MG + VITAMIN D3 1000IU",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-10mg-fenofibrate-160mg-ezetimibe-10mg",
+    "title": "ATORVASTATIN 10MG, FENOFIBRATE 160MG, EZETIMIBE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-10mgezetimibe-10mg-tabs",
+    "title": "ATORVASTATIN 10MG+EZETIMIBE 10MG TABS",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-20-mg-aspirin-150-mg",
+    "title": "ATORVASTATIN 20 MG, ASPIRIN 150 MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "atorvastatin-20mg",
+    "title": "ATORVASTATIN 20MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-20mg-aspirin-75mg",
+    "title": "ATORVASTATIN 20MG + ASPIRIN 75MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-20mg-aspirin-75mg-clopidogrel-75mg",
+    "title": "ATORVASTATIN 20MG + ASPIRIN 75MG + CLOPIDOGREL 75MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-20mg-clopidogrel-75mg",
+    "title": "ATORVASTATIN 20MG + CLOPIDOGREL 75MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-20mg-clopidogrel-75mg-aspirin-150mg",
+    "title": "ATORVASTATIN 20MG + CLOPIDOGREL 75MG +  ASPIRIN 150MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-20mg-ezetimibe-10mg",
+    "title": "ATORVASTATIN 20MG + EZETIMIBE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-40mg",
+    "title": "ATORVASTATIN 40MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-40mg-clopidogrel-75mg",
+    "title": "ATORVASTATIN 40MG + CLOPIDOGREL 75MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "atorvastatin-40mg-clopidogrel75mg-aspirin-75mg",
+    "title": "ATORVASTATIN 40MG + CLOPIDOGREL75MG + ASPIRIN 75MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "atorvastatin-40mg-aspirin-75mg",
+    "title": "ATORVASTATIN 40MG, ASPIRIN 75MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "atorvastatin-40mg-ezetimibe-10mg",
+    "title": "ATORVASTATIN 40MG, EZETIMIBE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-5mg",
+    "title": "ATORVASTATIN 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-80mg",
+    "title": "ATORVASTATIN 80MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "atorvastatin-80mg-ezitamibe-10mg",
+    "title": "ATORVASTATIN 80MG, EZITAMIBE 10MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "atropinehydrocortisone",
+    "title": "ATROPINE+HYDROCORTISONE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "auxillary-crutches",
+    "title": "AUXILLARY CRUTCHES",
+    "pack": "2`S"
+  },
+  {
+    "slug": "avanafil-100mg",
+    "title": "AVANAFIL 100MG",
+    "pack": "4`S"
+  },
+  {
+    "slug": "ayurvedic-muscle-relaxant-oil",
+    "title": "AYURVEDIC  MUSCLE RELAXANT OIL",
+    "pack": "60ML"
+  },
+  {
+    "slug": "ayurvedic-lactitol-capsule",
+    "title": "AYURVEDIC LACTITOL CAPSULE",
+    "pack": "60`S"
+  },
+  {
+    "slug": "azathioprine-25mg",
+    "title": "AZATHIOPRINE 25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "azathioprine-50mg",
+    "title": "AZATHIOPRINE 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "azelaic-acid-15",
+    "title": "AZELAIC ACID 15%",
+    "pack": "15GM"
+  },
+  {
+    "slug": "azelnidipine-16mg",
+    "title": "AZELNIDIPINE 16MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "azelnidipine-8mg",
+    "title": "AZELNIDIPINE 8MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "azilsartan-medoxomil-40mg",
+    "title": "AZILSARTAN MEDOXOMIL 40MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "azithromycin",
+    "title": "AZITHROMYCIN",
+    "pack": "3`S"
+  },
+  {
+    "slug": "azithromycin-1gm-fluconazole-150mg-secnidazole-1gm",
+    "title": "AZITHROMYCIN 1GM, FLUCONAZOLE 150MG, SECNIDAZOLE 1GM",
+    "pack": "4`S"
+  },
+  {
+    "slug": "azithromycin-200mg",
+    "title": "AZITHROMYCIN 200MG",
+    "pack": "15ML"
+  },
+  {
+    "slug": "azithromycin-250mg",
+    "title": "AZITHROMYCIN 250MG",
+    "pack": "6`S"
+  },
+  {
+    "slug": "azithromycin-500mg",
+    "title": "AZITHROMYCIN 500MG",
+    "pack": "3`S"
+  },
+  {
+    "slug": "azithromycin-tablet-250-mg",
+    "title": "AZITHROMYCIN TABLET 250 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "b-complex-vitamin-b12",
+    "title": "B COMPLEX , VITAMIN B12",
+    "pack": "15`S"
+  },
+  {
+    "slug": "b-p-monitor",
+    "title": "B P MONITOR",
+    "pack": "1`S"
+  },
+  {
+    "slug": "b-complex-with-lysine",
+    "title": "B-COMPLEX WITH LYSINE",
+    "pack": "200ML"
+  },
+  {
+    "slug": "baby-wipes",
+    "title": "BABY WIPES",
+    "pack": "72`S"
+  },
+  {
+    "slug": "bacillus-clausii-spores-suspension",
+    "title": "BACILLUS CLAUSII SPORES SUSPENSION",
+    "pack": "5ML"
+  },
+  {
+    "slug": "baclofen-10mg-1010",
+    "title": "BACLOFEN 10MG 10*10",
+    "pack": "10`S"
+  },
+  {
+    "slug": "baclofen-20mg",
+    "title": "BACLOFEN 20MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "baclofen-25mg",
+    "title": "BACLOFEN 25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bain-circuit",
+    "title": "BAIN CIRCUIT",
+    "pack": "1`S"
+  },
+  {
+    "slug": "bain-circuit-2",
+    "title": "BAIN CIRCUIT",
+    "pack": "1`S"
+  },
+  {
+    "slug": "bandage",
+    "title": "BANDAGE",
+    "pack": "1`S"
+  },
+  {
+    "slug": "bandage-2",
+    "title": "BANDAGE",
+    "pack": "1`S"
+  },
+  {
+    "slug": "bandage-cloth",
+    "title": "BANDAGE CLOTH",
+    "pack": "10`S"
+  },
+  {
+    "slug": "beclomethasone-0-025",
+    "title": "BECLOMETHASONE 0.025%",
+    "pack": "30ML"
+  },
+  {
+    "slug": "beclomethasone-0-025-neomycin-0-50-clotrimazole-1-00",
+    "title": "BECLOMETHASONE 0.025%, NEOMYCIN 0.50%, CLOTRIMAZOLE 1.00%",
+    "pack": "15GM"
+  },
+  {
+    "slug": "beclomethasone-0-025clotrimazole-1",
+    "title": "BECLOMETHASONE 0.025%+CLOTRIMAZOLE 1%",
+    "pack": "10GM"
+  },
+  {
+    "slug": "beclomethasone-0-1-neomycin-0-5",
+    "title": "BECLOMETHASONE 0.1%, NEOMYCIN 0.5%",
+    "pack": "20GM"
+  },
+  {
+    "slug": "beclomethasone-100mcg-levosalbutamol-100mcg",
+    "title": "BECLOMETHASONE 100MCG, LEVOSALBUTAMOL 100MCG",
+    "pack": "60`S"
+  },
+  {
+    "slug": "beclomethasone-400mcg-formoterol-6mcg",
+    "title": "BECLOMETHASONE 400MCG, FORMOTEROL 6MCG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "beclomethasone-dipropionate-0-025-fusidic-acid-ip-2-0",
+    "title": "BECLOMETHASONE DIPROPIONATE 0.025% & FUSIDIC ACID IP 2.0%",
+    "pack": "10GM"
+  },
+  {
+    "slug": "beclomethasone-dipropionate-0-025-econazole-nitrate-1-0",
+    "title": "BECLOMETHASONE DIPROPIONATE 0.025% ECONAZOLE NITRATE 1.0%",
+    "pack": "25GM"
+  },
+  {
+    "slug": "beclomethasone-dipropionate-0-025-clotrimazole-1-neomycin-sulphate-0-5",
+    "title": "BECLOMETHASONE DIPROPIONATE 0.025%, CLOTRIMAZOLE 1%, NEOMYCIN SULPHATE 0.5%",
+    "pack": "15GM"
+  },
+  {
+    "slug": "beclomethasone-dipropionate-200-mcg-formoterol-fumarate-6-mcg",
+    "title": "BECLOMETHASONE DIPROPIONATE 200 MCG , FORMOTEROL FUMARATE 6 MCG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "beclomethasone-dipropionate-50mcg-levo-sulbutamol-50mcg",
+    "title": "BECLOMETHASONE DIPROPIONATE 50MCG LEVO SULBUTAMOL 50MCG",
+    "pack": "1`S"
+  },
+  {
+    "slug": "beclomethasone-pipropionate-0-025clotrimazole-1gentamicin-0-3lignocaine-2",
+    "title": "BECLOMETHASONE PIPROPIONATE 0.025%,CLOTRIMAZOLE 1%,GENTAMICIN 0.3%,LIGNOCAINE 2%",
+    "pack": "10ML"
+  },
+  {
+    "slug": "beclomethasonechinoformclotrimazole",
+    "title": "BECLOMETHASONE+CHINOFORM+CLOTRIMAZOLE",
+    "pack": "10GM"
+  },
+  {
+    "slug": "beclomethasoneclotrimazolegentamicinlignocaine",
+    "title": "BECLOMETHASONE+CLOTRIMAZOLE+GENTAMICIN+LIGNOCAINE",
+    "pack": "5ML"
+  },
+  {
+    "slug": "bed-pan",
+    "title": "BED PAN",
+    "pack": "1`S"
+  },
+  {
+    "slug": "belladona-plast",
+    "title": "BELLADONA PLAST",
+    "pack": "10`S"
+  },
+  {
+    "slug": "below-knee-stocking",
+    "title": "BELOW KNEE STOCKING",
+    "pack": "1`S"
+  },
+  {
+    "slug": "bempedoic-180mg",
+    "title": "BEMPEDOIC 180MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bempedoic-180mg-ezitamibe-10mg",
+    "title": "BEMPEDOIC 180MG, EZITAMIBE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "benazepril-5mg",
+    "title": "BENAZEPRIL 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "benfothiamine-100mg",
+    "title": "BENFOTHIAMINE 100MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "benfothiaminemecobalamin-methylcobalamin",
+    "title": "BENFOTHIAMINE+MECOBALAMIN (METHYLCOBALAMIN)",
+    "pack": "10`S"
+  },
+  {
+    "slug": "benfotiamine-100-mgl-methylfolate-222-5-mcgmyo-inositol-1000-mgvitamin-d3-2000-iu",
+    "title": "BENFOTIAMINE 100 MG+L-METHYLFOLATE 222.5 MCG+MYO-INOSITOL 1000 MG+VITAMIN D3 2000 IU",
+    "pack": "10`S"
+  },
+  {
+    "slug": "benfotiamine-7-5-mgfolic-acid-0-75-mgmethylcobalamin-750-mcgpregabalin-75-mgpyridoxine-1-5-mg",
+    "title": "BENFOTIAMINE 7.5 MG+FOLIC ACID 0.75 MG+METHYLCOBALAMIN 750 MCG+PREGABALIN 75 MG+PYRIDOXINE 1.5 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "benidipine-4mg",
+    "title": "BENIDIPINE 4MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "benidipine-4mg-metoprolol-25mg",
+    "title": "BENIDIPINE 4MG, METOPROLOL 25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "benidipine-4mg-metoprolol-50mg",
+    "title": "BENIDIPINE 4MG, METOPROLOL 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "benidipine-8mg",
+    "title": "BENIDIPINE 8MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "benzocainechlorbutolparadichlorobenzeneturpentine",
+    "title": "BENZOCAINE+CHLORBUTOL+PARADICHLOROBENZENE+TURPENTINE",
+    "pack": "10ML"
+  },
+  {
+    "slug": "benzoic-acid-6-and-salicylic-acid-3",
+    "title": "BENZOIC ACID 6% AND SALICYLIC ACID 3%",
+    "pack": "20GM"
+  },
+  {
+    "slug": "benzoic-acidsalicylic-acid",
+    "title": "BENZOIC ACID+SALICYLIC ACID",
+    "pack": "20GM"
+  },
+  {
+    "slug": "benzonatate-100mg",
+    "title": "BENZONATATE 100MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "benzoyl-peroxide",
+    "title": "BENZOYL PEROXIDE",
+    "pack": "35GM"
+  },
+  {
+    "slug": "benzoyl-peroxide-2-5",
+    "title": "BENZOYL PEROXIDE 2.5%",
+    "pack": "20GM"
+  },
+  {
+    "slug": "benzoyl-peroxide-5",
+    "title": "BENZOYL PEROXIDE 5%",
+    "pack": "20GM"
+  },
+  {
+    "slug": "benzydamine-15",
+    "title": "BENZYDAMINE 15%",
+    "pack": "100ML"
+  },
+  {
+    "slug": "benzydamine-15-2",
+    "title": "BENZYDAMINE 15%",
+    "pack": "150ML"
+  },
+  {
+    "slug": "bepotastine-besilate-10mg",
+    "title": "BEPOTASTINE BESILATE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bepotastine-besilate-15potassium-sorbate-0-27",
+    "title": "BEPOTASTINE BESILATE 15%,POTASSIUM SORBATE 0.27%",
+    "pack": "5ML"
+  },
+  {
+    "slug": "betacarotenemultimineralsmultivitamins",
+    "title": "BETACAROTENE+MULTIMINERALS+MULTIVITAMINS",
+    "pack": "15`S"
+  },
+  {
+    "slug": "betahistine-16-mg",
+    "title": "BETAHISTINE 16 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "betahistine-16mg-piracetam-400mg-vinpocetine-5mg",
+    "title": "BETAHISTINE 16MG, PIRACETAM 400MG, VINPOCETINE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "betahistine-24mg",
+    "title": "BETAHISTINE 24MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "betahistine-8mg",
+    "title": "BETAHISTINE 8MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "betamethasone-0-10",
+    "title": "BETAMETHASONE 0.10%",
+    "pack": "20GM"
+  },
+  {
+    "slug": "betamethasone-0-5mg",
+    "title": "BETAMETHASONE 0.5MG",
+    "pack": "20GM"
+  },
+  {
+    "slug": "betamethasone-1mg",
+    "title": "BETAMETHASONE 1MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "betamethasonesalicylic",
+    "title": "BETAMETHASONE+SALICYLIC",
+    "pack": "20GM"
+  },
+  {
+    "slug": "bethanechol-chloride-25mg",
+    "title": "BETHANECHOL CHLORIDE 25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bethanechol-chloride-50mg",
+    "title": "BETHANECHOL CHLORIDE 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bicalumutide-50",
+    "title": "BICALUMUTIDE 50",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bifonazole-1-0",
+    "title": "BIFONAZOLE 1.0%",
+    "pack": "30GM"
+  },
+  {
+    "slug": "bifonazole-1-0-2",
+    "title": "BIFONAZOLE 1.0%",
+    "pack": "40ML"
+  },
+  {
+    "slug": "bilastine-20mg",
+    "title": "BILASTINE 20MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bilastine-20mgmontelukast-sodium-10mg",
+    "title": "BILASTINE 20MG,MONTELUKAST SODIUM 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bilastine-3-3mg-dextromethorphan-10mg-phenylephrine-5mg",
+    "title": "BILASTINE 3.3MG, DEXTROMETHORPHAN 10MG, PHENYLEPHRINE 5MG",
+    "pack": "100ML"
+  },
+  {
+    "slug": "bilastine-40mg",
+    "title": "BILASTINE 40MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bilastine-orodispersible-10mg",
+    "title": "BILASTINE ORODISPERSIBLE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bimatoprost",
+    "title": "BIMATOPROST",
+    "pack": "3ML"
+  },
+  {
+    "slug": "bimatoprost-0-03",
+    "title": "BIMATOPROST 0.03%",
+    "pack": "3ML"
+  },
+  {
+    "slug": "bimatoprost-0-03-2",
+    "title": "BIMATOPROST 0.03%",
+    "pack": "3ML"
+  },
+  {
+    "slug": "biotin-vit-b7",
+    "title": "BIOTIN (VIT B7)",
+    "pack": "10`S"
+  },
+  {
+    "slug": "biotin-10-mg-n-acetylcisteine-50-mg-calcium-pantothenate-100-mg-sodium-selenite-65-mcg",
+    "title": "BIOTIN 10 MG + N ACETYLCISTEINE 50 MG + CALCIUM PANTOTHENATE 100 MG +SODIUM SELENITE 65 MCG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "biotin-10-mg-l-cysteine-10-mg-selenium-40-mcg-copper-2-mg",
+    "title": "BIOTIN 10 MG; L-CYSTEINE 10 MG; SELENIUM 40 MCG; COPPER 2 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "biotin-10mg",
+    "title": "BIOTIN 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "biotin-10mg-niacinamide-40mg-minerals-amino-acids",
+    "title": "BIOTIN 10MG, NIACINAMIDE 40MG, MINERALS, AMINO ACIDS",
+    "pack": "10`S"
+  },
+  {
+    "slug": "biotin-5mg",
+    "title": "BIOTIN 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "biotin-5mg-vitamin-e-25-mg",
+    "title": "BIOTIN 5MG + VITAMIN E 25 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "biotin-5mg-l-methylcobalamin-1mg-methylcobalamin-1500mcg-pyridoxal-5-pgosphate-0-5mg",
+    "title": "BIOTIN 5MG, L-METHYLCOBALAMIN 1MG, METHYLCOBALAMIN 1500MCG, PYRIDOXAL 5 PGOSPHATE 0.5MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "bisacodyl-5mg",
+    "title": "BISACODYL 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bisoprolol-1-25mg",
+    "title": "BISOPROLOL 1.25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bisoprolol-2-5-mghydrochlorothiazide-6-25-mg",
+    "title": "BISOPROLOL 2.5  MGHYDROCHLOROTHIAZIDE 6.25 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bisoprolol-2-5mg",
+    "title": "BISOPROLOL 2.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bisoprolol-2-5mg-amlodipine-5mg",
+    "title": "BISOPROLOL 2.5MG, AMLODIPINE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bisoprolol-5mg",
+    "title": "BISOPROLOL 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bisoprolol-5mg-hydrchlorothiazide-6-25mg",
+    "title": "BISOPROLOL 5MG,  HYDRCHLOROTHIAZIDE 6.25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bisoprolol-5mg-amlodipine-5mg",
+    "title": "BISOPROLOL 5MG, AMLODIPINE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bisoprolol-fumarate-2-5mg",
+    "title": "BISOPROLOL FUMARATE 2.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bisoprolol-fumarate-5mg-hydrochlorothiazide-12-5mg",
+    "title": "BISOPROLOL FUMARATE 5MG ,HYDROCHLOROTHIAZIDE 12.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "blonanserin-4-mg",
+    "title": "BLONANSERIN 4 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "blonanserin-8mg",
+    "title": "BLONANSERIN 8MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "blood-lancet",
+    "title": "BLOOD LANCET",
+    "pack": "100`S"
+  },
+  {
+    "slug": "blood-lancet-2",
+    "title": "BLOOD LANCET",
+    "pack": "100`S"
+  },
+  {
+    "slug": "blood-tubing-set",
+    "title": "BLOOD TUBING SET",
+    "pack": "1`S"
+  },
+  {
+    "slug": "bosentan-125mg",
+    "title": "BOSENTAN 125MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bosentan-62-5mg",
+    "title": "BOSENTAN 62.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "boswellia-serrata-307-5-mg-devils-claw-extract-100-mg-rose-hip-extract-275-mg",
+    "title": "BOSWELLIA SERRATA  307.5 MG, DEVIL'S CLAW EXTRACT 100 MG, ROSE HIP EXTRACT 275 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "boswellia-serrata-100mg-collagen-peptide-11-40mg",
+    "title": "BOSWELLIA SERRATA 100MG, COLLAGEN PEPTIDE 11 40MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "boswellin-40-mgdevils-claw-extract-100-mgrose-hip-extract-275-mg",
+    "title": "BOSWELLIN 40 MG+DEVILS CLAW EXTRACT 100 MG+ROSE HIP EXTRACT 275 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bouffant-cap",
+    "title": "BOUFFANT CAP",
+    "pack": "1`S"
+  },
+  {
+    "slug": "breast-pump-electric",
+    "title": "BREAST PUMP ELECTRIC",
+    "pack": "1`S"
+  },
+  {
+    "slug": "breast-pump-manual",
+    "title": "BREAST PUMP MANUAL",
+    "pack": "1`S"
+  },
+  {
+    "slug": "brimonidine-0-1",
+    "title": "BRIMONIDINE 0.1%",
+    "pack": "5ML"
+  },
+  {
+    "slug": "brimonidine-0-2-timolol-0-5",
+    "title": "BRIMONIDINE 0.2%, TIMOLOL 0.5%",
+    "pack": "5ML"
+  },
+  {
+    "slug": "brimonidine-0-2-timolol-0-5-2",
+    "title": "BRIMONIDINE 0.2%, TIMOLOL 0.5%",
+    "pack": "5ML"
+  },
+  {
+    "slug": "brimonidine-0-2-timolol-0-5-3",
+    "title": "BRIMONIDINE 0.2%, TIMOLOL 0.5%",
+    "pack": "5ML"
+  },
+  {
+    "slug": "brimonidinetimolol",
+    "title": "BRIMONIDINE+TIMOLOL",
+    "pack": "5ML"
+  },
+  {
+    "slug": "brinzolamide-1",
+    "title": "BRINZOLAMIDE 1%",
+    "pack": "5ML"
+  },
+  {
+    "slug": "brinzolamide-10mg-brimonidine-2mg",
+    "title": "BRINZOLAMIDE 10MG, BRIMONIDINE 2MG",
+    "pack": "5ML"
+  },
+  {
+    "slug": "brivaracetam-100mg",
+    "title": "BRIVARACETAM 100MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "brivaracetam-25mg",
+    "title": "BRIVARACETAM 25MG",
+    "pack": "14`S"
+  },
+  {
+    "slug": "brivaracetam-50mg",
+    "title": "BRIVARACETAM 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "brivaracetam-50mg-2",
+    "title": "BRIVARACETAM 50MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "brivaracetam-75mg",
+    "title": "BRIVARACETAM 75MG",
+    "pack": "14`S"
+  },
+  {
+    "slug": "bromelaindiclofenac-sodiumrutosidetrypsin",
+    "title": "BROMELAIN+DICLOFENAC SODIUM+RUTOSIDE+TRYPSIN",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bromfenac-0-09",
+    "title": "BROMFENAC 0.09%",
+    "pack": "5ML"
+  },
+  {
+    "slug": "bromfenac-sodium",
+    "title": "BROMFENAC SODIUM",
+    "pack": "5ML"
+  },
+  {
+    "slug": "bromhexinechlorpheniramineguaiphenesinparacetamolphenylephrine",
+    "title": "BROMHEXINE+CHLORPHENIRAMINE+GUAIPHENESIN+PARACETAMOL+PHENYLEPHRINE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bromhexinedextromethorphanphenylpropanolamine",
+    "title": "BROMHEXINE+DEXTROMETHORPHAN+PHENYLPROPANOLAMINE",
+    "pack": "60ML"
+  },
+  {
+    "slug": "bromhexineguaiphenesinterbutaline",
+    "title": "BROMHEXINE+GUAIPHENESIN+TERBUTALINE",
+    "pack": "100ML"
+  },
+  {
+    "slug": "budesenoid-200mcgformoterol0-6mcg",
+    "title": "BUDESENOID 200MCG+FORMOTEROL0.6MCG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "budesenoid-200mcgformoterol0-6mcg-2",
+    "title": "BUDESENOID 200MCG+FORMOTEROL0.6MCG",
+    "pack": "120MD"
+  },
+  {
+    "slug": "budesonide-0-5mg",
+    "title": "BUDESONIDE 0.5MG",
+    "pack": "1`S"
+  },
+  {
+    "slug": "budesonide-0-5mg-formoterol-fumarate-20mcg",
+    "title": "BUDESONIDE 0.5MG, FORMOTEROL FUMARATE 20MCG",
+    "pack": "2ML"
+  },
+  {
+    "slug": "budesonide-0-5mg-levosalbutamol-1-25mg",
+    "title": "BUDESONIDE 0.5MG, LEVOSALBUTAMOL 1.25MG",
+    "pack": "1`S"
+  },
+  {
+    "slug": "budesonide-1-0mg",
+    "title": "BUDESONIDE 1.0MG",
+    "pack": "5`S"
+  },
+  {
+    "slug": "budesonide-100mcg-formoterol-6mcg",
+    "title": "BUDESONIDE 100MCG ,FORMOTEROL 6MCG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "budesonide-1mg-formoterol-20mcg",
+    "title": "BUDESONIDE 1MG, FORMOTEROL 20MCG",
+    "pack": "25`S"
+  },
+  {
+    "slug": "budesonide-200mcg",
+    "title": "BUDESONIDE 200MCG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "budesonide-200mcg-formoterol-6mcg",
+    "title": "BUDESONIDE 200MCG, FORMOTEROL 6MCG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "budesonide-200mcg-glycopyrronium-12-5mcg-formoterol-6mcg",
+    "title": "BUDESONIDE 200MCG, GLYCOPYRRONIUM 12.5MCG, FORMOTEROL 6MCG",
+    "pack": "120MD"
+  },
+  {
+    "slug": "budesonide-400mcg-formoterol-fumarate-12-mcg",
+    "title": "BUDESONIDE 400MCG , FORMOTEROL FUMARATE 12 MCG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "budesonide-400mcg-formoterol-6mcg",
+    "title": "BUDESONIDE 400MCG, FORMOTEROL 6MCG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "budesonide-400mcg-glycopyrronium-25-mcg-formoterol-fumarate-12-mcg",
+    "title": "BUDESONIDE 400MCG, GLYCOPYRRONIUM 25 MCG, FORMOTEROL FUMARATE 12 MCG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "budesonide-400mcgformoterol-6mcg",
+    "title": "BUDESONIDE 400MCG+FORMOTEROL 6MCG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "budesonide-400mcgformoterol-6mcg-2",
+    "title": "BUDESONIDE 400MCG+FORMOTEROL 6MCG",
+    "pack": "120MD"
+  },
+  {
+    "slug": "budesonide-9mg",
+    "title": "BUDESONIDE 9MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "bupropion-hydrochloride-150mg",
+    "title": "BUPROPION HYDROCHLORIDE 150MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "buspiron-hydrochloride-5mg",
+    "title": "BUSPIRON HYDROCHLORIDE 5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "buspirone-hydrochloride-10mg",
+    "title": "BUSPIRONE HYDROCHLORIDE 10MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "cabergoline-0-25mg",
+    "title": "CABERGOLINE 0.25MG",
+    "pack": "4`S"
+  },
+  {
+    "slug": "cabergoline-0-5mg",
+    "title": "CABERGOLINE 0.5MG",
+    "pack": "4`S"
+  },
+  {
+    "slug": "cabozantinib-40mg",
+    "title": "CABOZANTINIB 40MG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "caffeinecetirizinenimesulideparacetamol-acetaminophenphenylephrine",
+    "title": "CAFFEINE+CETIRIZINE+NIMESULIDE+PARACETAMOL (ACETAMINOPHEN)+PHENYLEPHRINE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "caffeinecetirizineparacetamolphenylephrine",
+    "title": "CAFFEINE+CETIRIZINE+PARACETAMOL+PHENYLEPHRINE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "caffeinechlorpheniraminenimesulidephenylephrine",
+    "title": "CAFFEINE+CHLORPHENIRAMINE+NIMESULIDE+PHENYLEPHRINE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calamine",
+    "title": "CALAMINE",
+    "pack": "100ML"
+  },
+  {
+    "slug": "calamine-1-5-simethicone-20-zinc-oxide-7-5",
+    "title": "CALAMINE 1.5%, SIMETHICONE 20%, ZINC OXIDE 7.5%",
+    "pack": "20GM"
+  },
+  {
+    "slug": "calamine-aloeveraliquid-paraffin",
+    "title": "CALAMINE, ALOEVERA,LIQUID PARAFFIN",
+    "pack": "100ML"
+  },
+  {
+    "slug": "calaminealoe-vera-lotion",
+    "title": "CALAMINE+ALOE VERA LOTION",
+    "pack": "100ML"
+  },
+  {
+    "slug": "calciium-citrate-1000mg-vitamin-d3-200iu-magnesium-100mg",
+    "title": "CALCIIUM CITRATE 1000MG, VITAMIN D3 200IU MAGNESIUM 100MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcipotriol-0-25mg",
+    "title": "CALCIPOTRIOL 0.25MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcitonin-2200-0iu",
+    "title": "CALCITONIN 2200.0IU",
+    "pack": "3.7ML"
+  },
+  {
+    "slug": "calcitriol-0-25-mcgcalcium-carbonate-500-mgdocosahexaenoic-acid-60-mgeicosapentaenoic-acid-epa-90-mgelemental-boron-1-5-mgfolic-acid-400-mcgme",
+    "title": "CALCITRIOL 0.25 MCG+CALCIUM CARBONATE 500 MG+DOCOSAHEXAENOIC ACID 60 MG+EICOSAPENTAENOIC ACID (EPA) 90 MG+ELEMENTAL BORON 1.5 MG+FOLIC ACID 400 MCG+ME",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcitriol-0-25-mcgcalcium-citrate-500-mgelemental-boron-1-5-mgfolic-acid-200-mcgmethylcobalamin-1500-mcgomega-3-fatty-acid-273-mgvitamin-k2-7-4",
+    "title": "CALCITRIOL 0.25 MCG+CALCIUM CITRATE 500 MG+ELEMENTAL BORON 1.5 MG+FOLIC ACID 200 MCG+METHYLCOBALAMIN 1500 MCG+OMEGA-3 FATTY ACID 273 MG+VITAMIN K2-7 4",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcitriol-0-25-mcgcalcium-citrate-500-mgelemental-zinc-7-5-mg",
+    "title": "CALCITRIOL 0.25 MCG+CALCIUM CITRATE 500 MG+ELEMENTAL ZINC 7.5 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcitriol-0-25-mg",
+    "title": "CALCITRIOL 0.25 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcitriol-0-25mcg-calcium-500mg-omega-3-fatty-acid-180mg-methylcobalamin-1500mcg-folic-acid-400mcg-docosahaxaenoic-120mg-boron-1-5mg",
+    "title": "CALCITRIOL 0.25MCG, CALCIUM 500MG, OMEGA 3 FATTY ACID 180MG, METHYLCOBALAMIN 1500MCG, FOLIC ACID 400MCG, DOCOSAHAXAENOIC 120MG, BORON 1.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcitriol-0-25mcg-calcium-500mg-soy-isoflavones-60mg-borax-1-5mg",
+    "title": "CALCITRIOL 0.25MCG, CALCIUM 500MG, SOY ISOFLAVONES 60MG, BORAX 1.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcitriol-0-25mcg-calcium-carbonate-500mg-folic-acid-1-5mg-methylcobalamin-1500mcg-pyridoxine-3mg",
+    "title": "CALCITRIOL 0.25MCG, CALCIUM CARBONATE 500MG, FOLIC ACID 1.5MG, METHYLCOBALAMIN 1500MCG, PYRIDOXINE 3MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcitriol-0-25mcgcalcium-carbonate-500mgzinc-7-5mg",
+    "title": "CALCITRIOL 0.25MCG+CALCIUM CARBONATE 500MG+ZINC 7.5MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcitriol-0-25mg-calcium-carbonate-1250mg-vitamin-k27-45mcg-methylcobalamin-1500mcg-zinc-7-5mg-magnesium-50mg-l-methylfolate-800mcg",
+    "title": "CALCITRIOL 0.25MG, CALCIUM CARBONATE 1250MG, VITAMIN K27 45MCG, METHYLCOBALAMIN 1500MCG, ZINC 7.5MG, MAGNESIUM 50MG, L-METHYLFOLATE 800MCG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcitriolcalciummagnesiumvitamin-k2-7",
+    "title": "CALCITRIOL+CALCIUM+MAGNESIUM+VITAMIN K2 7",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcitriolcalciummineralsvitamin-k2-7zinc",
+    "title": "CALCITRIOL+CALCIUM+MINERALS+VITAMIN K2 7+ZINC",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-1250mg-calcitriol-0-25mcg-vitamin-k27-45mcg",
+    "title": "CALCIUM 1250MG, CALCITRIOL 0.25MCG, VITAMIN K27 45MCG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcium-200mgcalcitriol-0-25mcg-zinc-7-5mg",
+    "title": "CALCIUM 200MG,CALCITRIOL 0.25MCG, ZINC 7.5MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcium-250mg-cyanocobalamn-2-5mcg-vitamin-d3-125iu",
+    "title": "CALCIUM 250MG, CYANOCOBALAMN 2.5MCG, VITAMIN D3 125IU",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-250mg-cyanocobalamn-2-5mcg-vitamin-d3-125iu-2",
+    "title": "CALCIUM 250MG, CYANOCOBALAMN 2.5MCG, VITAMIN D3 125IU",
+    "pack": "30`S"
+  },
+  {
+    "slug": "calcium-300mg-magnesium-75mg-zinc-4mg-vitamin-d3-200iu",
+    "title": "CALCIUM 300MG, MAGNESIUM 75MG, ZINC 4MG, VITAMIN D3 200IU",
+    "pack": "200ML"
+  },
+  {
+    "slug": "calcium-350mg-calcitriol-0-25mcg-vitamin-k27-45mcg-folic-acid-1-5mg-omega-3-fatty-acid-20mg",
+    "title": "CALCIUM 350MG, CALCITRIOL 0.25MCG, VITAMIN K27 45MCG FOLIC ACID 1.5MG, OMEGA 3 FATTY ACID 20MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-500mg-magnesium-200mg-soy-isoflavone-100mg-boron-3-0mg-vitamin-k2-55mcg-vitamin-d3-600iu",
+    "title": "CALCIUM 500MG, MAGNESIUM 200MG, SOY ISOFLAVONE 100MG, BORON 3.0MG, VITAMIN K2 55MCG, VITAMIN D3 600IU",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-500mgcalcitriol-0-25mcg-omega-3-150mg-l-methylfolate-calcium-1mg-vitamin-k27-45mcgmethylcobalamin-1500mcgpyridoxal-0-5mglycopene-500mcg",
+    "title": "CALCIUM 500MG,CALCITRIOL 0.25MCG, OMEGA 3 150MG, L-METHYLFOLATE CALCIUM 1MG, VITAMIN K27 45MCG,METHYLCOBALAMIN 1500MCG,PYRIDOXAL 0.5MG,LYCOPENE 500MCG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-500mgvit-d3-250-i-u",
+    "title": "CALCIUM 500MG+VIT D3 250 I.U",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-625mg-vitamin-d3-125iu",
+    "title": "CALCIUM 625MG, VITAMIN D3 125IU",
+    "pack": "200ML"
+  },
+  {
+    "slug": "calcium-acetate-667mg",
+    "title": "CALCIUM ACETATE 667MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-asparate500-mg-calcium-orotate-500mg-calcitriol-0-25mcg-zinc7-5-mg-magnesium-hydroxocobalamin-100mcg-folic-acid-1-5mg",
+    "title": "CALCIUM ASPARATE500 MG, CALCIUM OROTATE 500MG, CALCITRIOL 0.25MCG ,ZINC7.5 MG, MAGNESIUM HYDROXOCOBALAMIN 100MCG & FOLIC ACID 1.5MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-aspartate-1120mg-calcitriol-0-25mcg-methylcobalamin-1500mcg-magnesium-50mcg-zinc-7-5mg-vitamin-k27-45mcgl-methylfolate-1mgpyridoxal-0-5",
+    "title": "CALCIUM ASPARTATE 1120MG, CALCITRIOL 0.25MCG, METHYLCOBALAMIN 1500MCG, MAGNESIUM 50MCG, ZINC 7.5MG, VITAMIN K27 45MCG,L-METHYLFOLATE 1MG,PYRIDOXAL 0.5",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-aspartate-1120mg-magnesium-180mg-vitamin-d3-10-mcg",
+    "title": "CALCIUM ASPARTATE 1120MG, MAGNESIUM 180MG, VITAMIN D3 10 MCG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcium-aspartatecalcium-orotatecalcitriolfolic-acidhydroxocobalaminmagnesiumzinc",
+    "title": "CALCIUM ASPARTATE+CALCIUM OROTATE+CALCITRIOL+FOLIC ACID+HYDROXOCOBALAMIN+MAGNESIUM+ZINC",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-carbonate",
+    "title": "CALCIUM CARBONATE",
+    "pack": "150ML"
+  },
+  {
+    "slug": "calcium-carbonate-1000mg-vitamin-d3-10mcg-vitamin-k27-45mcg-cyanocobalamin-1-5mcg-magnesium-45mg-boron-1-5mg-zinc-17mg",
+    "title": "CALCIUM CARBONATE 1000MG, VITAMIN D3 10MCG, VITAMIN K27 45MCG, CYANOCOBALAMIN 1.5MCG, MAGNESIUM 45MG, BORON 1.5MG, ZINC 17MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-carbonate-1250mg-vitamin-d3-500iu-vitamin-b12-15mcg",
+    "title": "CALCIUM CARBONATE 1250MG, VITAMIN D3 500IU, VITAMIN B12 15MCG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcium-carbonate-1250mgvitamin-d3-2000iumethylcobalamin-1500mcgl-methylfolate-calcium-1mgpyridoxal-5phosphate-20mg",
+    "title": "CALCIUM CARBONATE 1250MG,VITAMIN D3 2000IU,METHYLCOBALAMIN 1500MCG,L-METHYLFOLATE CALCIUM 1MG,PYRIDOXAL-5,PHOSPHATE 20MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-carbonate-1250mgvitamin-d3-2000iumethylcobalamin-1500mcgl-methylfolate-calcium-1mgpyridoxal-5phosphate-20mg-2",
+    "title": "CALCIUM CARBONATE 1250MG,VITAMIN D3 2000IU,METHYLCOBALAMIN 1500MCG,L-METHYLFOLATE CALCIUM 1MG,PYRIDOXAL-5,PHOSPHATE 20MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcium-carbonate-1250mgvitamin-d3-2000iumethylcobalamin-1500mcgl-methylfolate-calcium-1mgpyridoxal-5phosphate-20mg-3",
+    "title": "CALCIUM CARBONATE 1250MG,VITAMIN D3 2000IU,METHYLCOBALAMIN 1500MCG,L-METHYLFOLATE CALCIUM 1MG,PYRIDOXAL-5,PHOSPHATE 20MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcium-carbonate-1250mgvitamin-d3-250iu",
+    "title": "CALCIUM CARBONATE 1250MG,VITAMIN D3 250IU",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-carbonate-225mg-vitamin-d3-600iu-vitamin-k2-45mcg",
+    "title": "CALCIUM CARBONATE 225MG, VITAMIN D3 600IU, VITAMIN K2 45MCG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-carbonate-250-mg-magnesium-hydroxide-75mg-zinc-2mg-vitamin-d3-200iu",
+    "title": "CALCIUM CARBONATE 250 MG , MAGNESIUM HYDROXIDE 75MG, ZINC 2MG, VITAMIN D3 200IU",
+    "pack": "200ML"
+  },
+  {
+    "slug": "calcium-carbonate-625-mgmagnesium-hydroxide-180-mgvitamin-d3-200-iuzinc-gluconate-14-mg",
+    "title": "CALCIUM CARBONATE 625 MG+MAGNESIUM HYDROXIDE 180 MG+VITAMIN D3 200 IU+ZINC GLUCONATE 14 MG",
+    "pack": "200ML"
+  },
+  {
+    "slug": "calcium-carbonatemagnesiumzinc",
+    "title": "CALCIUM CARBONATE+MAGNESIUM+ZINC",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcium-citrate-1000-mgelemental-magnesium-100-mgelemental-zinc-4-mgvitamin-d3-200-iu",
+    "title": "CALCIUM CITRATE 1000 MG+ELEMENTAL MAGNESIUM 100 MG+ELEMENTAL ZINC 4 MG+VITAMIN D3 200 IU",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcium-citrate-1000-mgelemental-magnesium-100-mgelemental-zinc-4-mgvitamin-d3-200-iu-2",
+    "title": "CALCIUM CITRATE 1000 MG+ELEMENTAL MAGNESIUM 100 MG+ELEMENTAL ZINC 4 MG+VITAMIN D3 200 IU",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcium-citrate-1000mg-methylcobalamin-1500mcg-vitamin-k2-7-90mcg-vitamin-d3-1000iumagnesium-bisglycinate-340mgzinc-15mg",
+    "title": "CALCIUM CITRATE 1000MG, METHYLCOBALAMIN 1500MCG, VITAMIN K2 7 90MCG, VITAMIN D3 1000IU,MAGNESIUM BISGLYCINATE 340MG,ZINC 15MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-citrate-1000mgvitamin-d3-200iumagnesium-hydroxide-100mgzinc-sulphate-10mg",
+    "title": "CALCIUM CITRATE 1000MG,VITAMIN D3 200IU,MAGNESIUM HYDROXIDE 100MG,ZINC SULPHATE 10MG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "calcium-citrate-1000mgmagnesium-100mgzinc-4mgvitamin-d3-2iu",
+    "title": "CALCIUM CITRATE 1000MG+MAGNESIUM 100MG+ZINC 4MG+VITAMIN D3 2IU",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcium-citrate-1000mgvitamin-d3zinc-4mgmagnesium-100mg",
+    "title": "CALCIUM CITRATE 1000MG+VITAMIN D3+ZINC 4MG+MAGNESIUM 100MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcium-citrate-1250mg-calcium-folinate-1mg-magnesium-hydroxide-100mg-methylcobalamin-1500mg-pyridoxal-20mg-vit-d3-2000iu-zinc-4mg",
+    "title": "CALCIUM CITRATE 1250MG, CALCIUM FOLINATE 1MG, MAGNESIUM HYDROXIDE 100MG, METHYLCOBALAMIN 1500MG, PYRIDOXAL 20MG, VIT D3 2000IU, ZINC 4MG",
+    "pack": "15`S"
+  },
+  {
+    "slug": "calcium-citrate-malate-1250mgmethylcobalamin-1500mcgvitamin-k2-7-90mcgvitamin-d3-1000iuzinc-oxide-15mgmagnesium-oxide-50mg",
+    "title": "CALCIUM CITRATE MALATE 1250MG,METHYLCOBALAMIN 1500MCG,VITAMIN (K2-7) 90MCG,VITAMIN D3 1000IU,ZINC OXIDE 15MG,MAGNESIUM OXIDE 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-citrate-malate-1250mgmethylcobalamin-1500mcgvitamin-k2-7-90mcgvitamin-d3-1000iuzinc-oxide-15mgmagnesium-oxide-50mg-2",
+    "title": "CALCIUM CITRATE MALATE 1250MG,METHYLCOBALAMIN 1500MCG,VITAMIN (K2-7) 90MCG,VITAMIN D3 1000IU,ZINC OXIDE 15MG,MAGNESIUM OXIDE 50MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-citrate-malate-250mg-vitamin-d3-100iufolic-acid-50mcg",
+    "title": "CALCIUM CITRATE MALATE 250MG, VITAMIN D3 100IU,FOLIC ACID 50MCG",
+    "pack": "30`S"
+  },
+  {
+    "slug": "calcium-citratecholecalciferolvit-d3folic-acidmecobalamin-methylcobalaminpyridoxine",
+    "title": "CALCIUM CITRATE+CHOLECALCIFEROL(VIT D3)+FOLIC ACID+MECOBALAMIN (METHYLCOBALAMIN)+PYRIDOXINE",
+    "pack": "30`S"
+  },
+  {
+    "slug": "calcium-citratecholecalciferolvit-d3vitamin-k27isoflavones",
+    "title": "CALCIUM CITRATE+CHOLECALCIFEROL(VIT D3)+VITAMIN K27+ISOFLAVONES",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-citratecholecalciferolvit-d3vitamin-k27isoflavones-2",
+    "title": "CALCIUM CITRATE+CHOLECALCIFEROL(VIT D3)+VITAMIN K27+ISOFLAVONES",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-debosilate",
+    "title": "CALCIUM DEBOSILATE",
+    "pack": "15GM"
+  },
+  {
+    "slug": "calcium-dobesilate-0-25-hydrocortisone-0-25-lignocaine-3-0-zinc-5-0",
+    "title": "CALCIUM DOBESILATE 0.25%, HYDROCORTISONE 0.25%, LIGNOCAINE 3.0%, ZINC 5.0%",
+    "pack": "30GM"
+  },
+  {
+    "slug": "calcium-dobesilate-0-25troxerutin-2-0-lignocaine3-0-hydrocortisone-acetate0-25-zinc-5-0-phenylephrine-0-1",
+    "title": "CALCIUM DOBESILATE 0.25%,TROXERUTIN 2.0%, LIGNOCAINE3.0%, HYDROCORTISONE ACETATE0.25%, ZINC 5.0%, PHENYLEPHRINE 0.1%",
+    "pack": "30GM"
+  },
+  {
+    "slug": "calcium-dobesilate-monohydrate-500mg",
+    "title": "CALCIUM DOBESILATE MONOHYDRATE 500MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-pantothenate",
+    "title": "CALCIUM PANTOTHENATE",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-pantothenate-20-mgfolic-acid-1000-mcgl-lysine-150-mgniacinamide-50-mgvitamin-b1-10-mgvitamin-b12-5-mcgvitamin-b2-10-mgvitamin-b6-3-mg",
+    "title": "CALCIUM PANTOTHENATE 20 MG+FOLIC ACID 1000 MCG+L-LYSINE 150 MG+NIACINAMIDE 50 MG+VITAMIN B1 10 MG+VITAMIN B12 5 MCG+VITAMIN B2 10 MG+VITAMIN B6 3 MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "calcium-polystyrene-sulphonate-15g",
+    "title": "CALCIUM POLYSTYRENE SULPHONATE 15G",
+    "pack": "15GM"
+  },
+  {
+    "slug": "calcium-polystyrene-sulphonate-15g-2",
+    "title": "CALCIUM POLYSTYRENE SULPHONATE 15G",
+    "pack": "15GM"
+  },
+  {
+    "slug": "calciumcholecalciferolvit-d3",
+    "title": "CALCIUM+CHOLECALCIFEROL(VIT D3)",
+    "pack": "15`S"
+  },
+  {
+    "slug": "camphor-25mgchlorothymol-5mgeucalyptol-125mgmenthol-55mgterpineol-120mg",
+    "title": "CAMPHOR 25MG,CHLOROTHYMOL 5MG,EUCALYPTOL 125MG,MENTHOL 55MG,TERPINEOL 120MG",
+    "pack": "10`S"
+  },
+  {
+    "slug": "camylofin-dihydrochlorideparacetamol",
+    "title": "CAMYLOFIN DIHYDROCHLORIDE+PARACETAMOL",
+    "pack": "10`S"
+  }
+]

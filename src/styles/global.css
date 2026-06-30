@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&family=Nunito:400,600,700,800&display=swap');
+
+:root {
+  --color-primary: #19be6f;
+  --color-secondary: #ebf8f2;
+  --color-accent: #ff9505;
+  --color-text: #062a3f;
+  --color-muted: #82929b;
+  --color-bg-soft: #f9f9f9;
+  --color-teal: #006d77;
+  --color-white: #ffffff;
+
+  --font-heading: 'Roboto', sans-serif;
+  --font-body: 'Nunito', sans-serif;
+
+  --container-width: 1200px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--color-text);
+  background: var(--color-white);
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  transition: transform 0.4s ease;
+}
+
+img:hover {
+  transform: scale(1.06);
+}
+
+.logo-card img:hover {
+  transform: none;
+}
+
+@keyframes slide-in-down {
+  from {
+    opacity: 0;
+    transform: translateY(-32px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.product-card,
+.feature-card,
+.highlight,
+.hero__media {
+  animation: slide-in-down 0.7s ease both;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-heading);
+  font-weight: 900;
+  line-height: 1.25;
+  margin: 0 0 16px;
+  color: var(--color-text);
+}
+
+p {
+  margin: 0 0 16px;
+}
+
+.container {
+  max-width: var(--container-width);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+.section {
+  padding: 72px 0;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 15px;
+  padding: 16px 32px;
+  border-radius: 6px;
+  background: var(--color-primary);
+  color: var(--color-white);
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.btn:hover {
+  background: #149a59;
+  transform: translateY(-2px);
+}
+
+.btn-outline {
+  background: transparent;
+  border: 2px solid var(--color-primary);
+  color: var(--color-primary);
+}
+
+.btn-outline:hover {
+  background: var(--color-primary);
+  color: var(--color-white);
+}
+
+.eyebrow {
+  display: inline-block;
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--color-primary);
+  background: var(--color-secondary);
+  padding: 8px 18px;
+  border-radius: 999px;
+  margin-bottom: 16px;
+}
+
+.text-muted {
+  color: var(--color-muted);
+}
+
+.text-center {
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .section {
+    padding: 48px 0;
+  }
+}

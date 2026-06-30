@@ -1,0 +1,178 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import ProductImage from '../../../components/ProductImage.astro';
+import productsData from '../../../data/products.json';
+
+export async function getStaticPaths() {
+  return productsData.map((product, index) => ({
+    params: { slug: product.slug },
+    props: { product, index },
+  }));
+}
+
+const { product, index } = Astro.props;
+
+// Pull a few neighbouring products (by sort order) as "related products"
+const sorted = [...productsData].sort((a, b) => a.title.localeCompare(b.title));
+const sortedIndex = sorted.findIndex((p) => p.slug === product.slug);
+const related = [];
+for (let offset = 1; related.length < 4 && offset < sorted.length; offset++) {
+  related.push(sorted[(sortedIndex + offset) % sorted.length]);
+}
+---
+
+<Layout title={`${product.title} – Janatha Pharma`} description={product.pack ?? undefined}>
+  <section class="section">
+    <div class="container">
+      <nav class="breadcrumb text-muted" aria-label="Breadcrumb">
+        <a href="/">Home</a> / <a href="/all-products/">All Products</a> / {product.title}
+      </nav>
+
+      <div class="product">
+        <div class="product__media">
+          <ProductImage slug={product.slug} image={product.image} alt={product.title} width={420} height={420} />
+        </div>
+        <div class="product__info">
+          <h1>{product.title}</h1>
+          {product.pack && <p class="pack text-muted">{product.pack}</p>}
+          <a class="btn" href="tel:+919591165279">Call To Place Order</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section related">
+    <div class="container">
+      <h2>Related Products</h2>
+      <p class="text-muted">Other generic medicines you may be looking for.</p>
+      <div class="related__grid">
+        {
+          related.map((p) => (
+            <a class="product-card" href={`/product/${p.slug}/`}>
+              <div class="product-card__media">
+                <ProductImage slug={p.slug} image={p.image} alt={p.title} width={200} height={200} />
+              </div>
+              <h3>{p.title}</h3>
+              <span class="read-more">Read more</span>
+            </a>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .breadcrumb {
+    margin-bottom: 32px;
+    font-size: 14px;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--color-primary);
+  }
+
+  .product {
+    display: grid;
+    grid-template-columns: 420px 1fr;
+    gap: 56px;
+    align-items: center;
+    margin-bottom: 24px;
+  }
+
+  .product__media {
+    background: var(--color-bg-soft);
+    border-radius: 20px;
+    overflow: hidden;
+  }
+
+  .product__media :global(img) {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
+  }
+
+  .product__info h1 {
+    font-size: 32px;
+    margin-bottom: 12px;
+  }
+
+  .pack {
+    font-size: 18px;
+    margin-bottom: 28px;
+  }
+
+  .related h2 {
+    font-size: 28px;
+    margin-bottom: 4px;
+  }
+
+  .related__grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+    margin-top: 32px;
+  }
+
+  .product-card {
+    border: 1px solid #eef1f3;
+    border-radius: 16px;
+    padding: 20px;
+    text-align: center;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+  }
+
+  .product-card:hover {
+    box-shadow: 0 16px 40px rgba(6, 42, 63, 0.1);
+    transform: translateY(-4px);
+  }
+
+  .product-card__media {
+    background: var(--color-bg-soft);
+    border-radius: 12px;
+    margin-bottom: 16px;
+    overflow: hidden;
+  }
+
+  .product-card__media :global(img) {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
+  }
+
+  .product-card h3 {
+    font-size: 14px;
+    margin-bottom: 8px;
+  }
+
+  .read-more {
+    display: inline-block;
+    font-family: var(--font-heading);
+    font-weight: 700;
+    font-size: 13px;
+    color: var(--color-primary);
+  }
+
+  @media (max-width: 860px) {
+    .product {
+      grid-template-columns: 1fr;
+    }
+
+    .product__media {
+      max-width: 360px;
+      margin: 0 auto;
+    }
+
+    .related__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 540px) {
+    .related__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

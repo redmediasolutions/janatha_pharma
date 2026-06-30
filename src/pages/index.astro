@@ -1,0 +1,337 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { Image } from 'astro:assets';
+import heroImage from '../assets/site/feature-4.jpg';
+import shippingIcon from '../assets/site/icon-shipping.png';
+import headsetIcon from '../assets/site/icon-headset.png';
+import shieldIcon from '../assets/site/icon-shield.png';
+import compositionImage from '../assets/site/feature-3.jpg';
+import costImage from '../assets/site/feature-2.jpg';
+import trustImage from '../assets/site/feature-1.jpg';
+import productsData from '../data/products.json';
+import ProductImage from '../components/ProductImage.astro';
+
+const featuredSlugs = [
+  'acamprostate-666mg',
+  'abiraterone-acetate-500mg',
+  'abiraterone-acetate-250mg',
+  'abdominal-sponze',
+];
+const featuredProducts = featuredSlugs
+  .map((slug) => productsData.find((p) => p.slug === slug))
+  .filter(Boolean);
+
+const features = [
+  {
+    icon: shippingIcon,
+    title: 'Quality Generic Medicines',
+    text: 'High-quality generic medicines at prices everyone can afford.',
+  },
+  {
+    icon: headsetIcon,
+    title: 'Pharmacy Support',
+    text: '24/7 support for your Pharmacy requirements.',
+  },
+  {
+    icon: shieldIcon,
+    title: 'Assurance & Affordability',
+    text: 'Same effectiveness. Lower cost. Better care.',
+  },
+];
+
+const highlights = [
+  {
+    image: compositionImage,
+    title: 'Same Composition as Branded Medicines',
+    text: 'Same active ingredients, same dosage.',
+  },
+  {
+    image: costImage,
+    title: 'Lower Cost, Same Results',
+    text: 'Quality medicines that don’t come with a premium price tag.',
+  },
+  {
+    image: trustImage,
+    title: 'Trusted by Local Communities',
+    text: 'Sourced from certified manufacturers our customers rely on.',
+  },
+];
+---
+
+<Layout title="Janatha Pharma – Quality Generic Medicines Distributor">
+  <!-- Hero -->
+  <section class="hero section">
+    <div class="container hero__inner">
+      <div class="hero__copy">
+        <h1>Affordable Healthcare. Trusted Medicines.</h1>
+        <p class="text-muted">
+          We provide safe, government-approved generic medicines that deliver the same
+          quality and effectiveness as branded drugs — without the high price.
+        </p>
+        <a class="btn" href="/all-products/">See All Products</a>
+      </div>
+      <div class="hero__media">
+        <Image src={heroImage} alt="Janatha Pharma" width={420} height={420} />
+      </div>
+    </div>
+  </section>
+
+  <!-- Feature blocks -->
+  <section class="features">
+    <div class="container features__grid">
+      {
+        features.map((f) => (
+          <div class="feature-card">
+            <Image src={f.icon} alt="" width={56} height={56} />
+            <h3>{f.title}</h3>
+            <p class="text-muted">{f.text}</p>
+          </div>
+        ))
+      }
+    </div>
+  </section>
+
+  <!-- Featured products -->
+  <section class="section products">
+    <div class="container">
+      <div class="text-center">
+        <h2>Our Products</h2>
+      </div>
+      <div class="products__grid">
+        {
+          featuredProducts.map((p) => (
+            <a class="product-card" href={`/product/${p!.slug}/`}>
+              <div class="product-card__media">
+                <ProductImage slug={p!.slug} image={p!.image} alt={p!.title} width={240} height={240} />
+              </div>
+              <h4>{p!.title}</h4>
+              {p!.pack && <p class="text-muted">{p!.pack}</p>}
+            </a>
+          ))
+        }
+      </div>
+      <div class="text-center">
+        <a class="btn btn-outline" href="/all-products/">All Products</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- About / Generic Medicine -->
+  <section id="about" class="section about">
+    <div class="container about__inner">
+      <div class="about__copy">
+        <span class="eyebrow">Generic Medicine</span>
+        <h2>Smart Medicine. Smarter Prices.</h2>
+        <p class="text-muted">
+          Quality medicines shouldn’t come with a premium price tag. We provide
+          <strong>government-approved generic medicines</strong> that deliver the same
+          effectiveness and safety as branded drugs — at a fraction of the cost.
+        </p>
+        <p class="text-muted">
+          Our goal is simple: make healthcare <strong>accessible, reliable, and
+          affordable</strong> for every family. From daily prescriptions to preventive
+          care, we ensure you get trusted medicines sourced from certified
+          manufacturers.
+        </p>
+      </div>
+
+      <div class="about__highlights">
+        {
+          highlights.map((h) => (
+            <div class="highlight">
+              <Image src={h.image} alt="" width={80} height={80} />
+              <div>
+                <h4>{h.title}</h4>
+                <p class="text-muted">{h.text}</p>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .hero__inner {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 48px;
+    align-items: center;
+  }
+
+  .hero__copy h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+
+  .hero__copy p {
+    font-size: 18px;
+    max-width: 540px;
+  }
+
+  .hero__media {
+    display: flex;
+    justify-content: center;
+    border-radius: 24px;
+    overflow: hidden;
+    box-shadow: 0 24px 64px rgba(6, 42, 63, 0.16);
+  }
+
+  .hero__media :global(img) {
+    border-radius: 24px;
+  }
+
+  .features {
+    background: var(--color-secondary);
+    padding: 56px 0;
+  }
+
+  .features__grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+  }
+
+  .feature-card {
+    background: var(--color-white);
+    border-radius: 16px;
+    padding: 32px;
+    text-align: center;
+    box-shadow: 0 12px 32px rgba(6, 42, 63, 0.06);
+  }
+
+  .feature-card :global(img) {
+    margin: 0 auto 20px;
+  }
+
+  .feature-card h3 {
+    font-size: 20px;
+    margin-bottom: 8px;
+  }
+
+  .feature-card p {
+    margin: 0;
+  }
+
+  .products h2 {
+    font-size: 36px;
+    margin-bottom: 40px;
+  }
+
+  .products__grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 24px;
+    margin-bottom: 40px;
+  }
+
+  .product-card {
+    border: 1px solid #eef1f3;
+    border-radius: 16px;
+    padding: 24px;
+    text-align: center;
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+  }
+
+  .product-card:hover {
+    box-shadow: 0 16px 40px rgba(6, 42, 63, 0.1);
+    transform: translateY(-4px);
+  }
+
+  .product-card__media {
+    background: var(--color-bg-soft);
+    border-radius: 12px;
+    margin-bottom: 16px;
+    overflow: hidden;
+  }
+
+  .product-card__media :global(img) {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
+  }
+
+  .product-card h4 {
+    font-size: 16px;
+    margin-bottom: 4px;
+  }
+
+  .product-card p {
+    margin: 0;
+    font-size: 14px;
+  }
+
+  .about {
+    background: var(--color-bg-soft);
+  }
+
+  .about__inner {
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    gap: 56px;
+    align-items: start;
+  }
+
+  .about__copy h2 {
+    font-size: 36px;
+  }
+
+  .about__highlights {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+  }
+
+  .highlight {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    background: var(--color-white);
+    border-radius: 16px;
+    padding: 20px;
+    box-shadow: 0 12px 32px rgba(6, 42, 63, 0.06);
+  }
+
+  .highlight :global(img) {
+    border-radius: 12px;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+
+  .highlight h4 {
+    font-size: 17px;
+    margin-bottom: 4px;
+  }
+
+  .highlight p {
+    margin: 0;
+    font-size: 14px;
+  }
+
+  @media (max-width: 960px) {
+    .hero__inner,
+    .about__inner {
+      grid-template-columns: 1fr;
+    }
+
+    .features__grid {
+      grid-template-columns: 1fr;
+    }
+
+    .products__grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 540px) {
+    .hero__copy h1 {
+      font-size: 34px;
+    }
+
+    .products__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
