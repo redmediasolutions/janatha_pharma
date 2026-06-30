@@ -1,0 +1,72 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { Image } from "astro:assets";
+import type { ImageMetadata } from "astro";
+
+// Import every image in the gallery folder
+const modules = import.meta.glob<{ default: ImageMetadata }>(
+  "../assets/product-images/*.{jpg,jpeg,png,webp,avif,gif}",
+  {
+    eager: true,
+  }
+);
+
+const images = Object.values(modules);
+---
+
+<Layout title="Gallery">
+  <main class="container">
+    <h1>Gallery</h1>
+
+    <div class="gallery">
+      {images.map(({ default: image }) => (
+        <a href={image.src} target="_blank" class="gallery-item">
+          <Image
+            src={image}
+            alt={image.src.split("/").pop() ?? "Gallery image"}
+            widths={[300, 600]}
+            sizes="(max-width: 768px) 100vw, 300px"
+            loading="lazy"
+          />
+        </a>
+      ))}
+    </div>
+  </main>
+</Layout>
+
+<style>
+.container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.gallery-item {
+  display: block;
+  overflow: hidden;
+  border-radius: 12px;
+  transition: transform 0.2s ease;
+  box-shadow: 0 4px 12px rgba(0,0,0,.1);
+}
+
+.gallery-item:hover {
+  transform: translateY(-4px);
+}
+
+.gallery-item img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+</style>

@@ -1,7 +1,6 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { Image } from 'astro:assets';
-import heroImage from '../assets/site/feature-4.jpg';
 import shippingIcon from '../assets/site/icon-shipping.png';
 import headsetIcon from '../assets/site/icon-headset.png';
 import shieldIcon from '../assets/site/icon-shield.png';
@@ -71,7 +70,7 @@ const highlights = [
         <a class="btn" href="/all-products/">See All Products</a>
       </div>
       <div class="hero__media">
-        <Image src={heroImage} alt="Janatha Pharma" width={420} height={420} />
+        <Image src="/images/hero.jpg" alt="Janatha Pharma" width={420} height={420} />
       </div>
     </div>
   </section>
@@ -82,7 +81,7 @@ const highlights = [
       {
         features.map((f) => (
           <div class="feature-card">
-            <Image src={f.icon} alt="" width={56} height={56} />
+            <Image src={f.icon} alt="" width={120} height={120} />
             <h3>{f.title}</h3>
             <p class="text-muted">{f.text}</p>
           </div>
@@ -111,7 +110,7 @@ const highlights = [
         }
       </div>
       <div class="text-center">
-        <a class="btn btn-outline" href="/all-products/">All Products</a>
+        <a class="btn btn-outline" href="/products/">All Products</a>
       </div>
     </div>
   </section>
